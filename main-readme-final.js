@@ -180,7 +180,7 @@ const generateReadme = () => {
       jobs.forEach((job) => {
         if (job.job_link) activeJobs++;
         else closedJobs++;
-        if ((job.location || job.locationNew || "").toLowerCase().includes("remote")) {
+        if ((job.locationNew || job.location || "").toLowerCase().includes("remote")) {
           remoteJobs++;
         }
       });
@@ -214,7 +214,7 @@ const generateReadme = () => {
       const activeCount = (PROFILE_JOBS_MAPPING[profile] || []).filter((j) => j.job_link).length;
       
       content += `<td align="center" width="25%">
-<a href="#${emoji}-${anchor}">
+<a href="#-${anchor}">
 <img src="https://img.shields.io/badge/${emoji}_${profile.replace(/ /g, '_')}-${activeCount}_Jobs-blue?style=for-the-badge" alt="${profile}">
 </a>
 <br>
@@ -236,9 +236,11 @@ const generateReadme = () => {
       const jobs = PROFILE_JOBS_MAPPING[profile] || [];
       const emoji = getProfileEmoji(profile);
       const activeCount = jobs.filter((j) => j.job_link).length;
+      const anchor = profile.toLowerCase().replace(/\s+/g, "-");
 
       content += `
 ## ${emoji} ${profile}
+<a name="-${anchor}"></a>
 
 > 💼 **${activeCount}** active positions available
 
