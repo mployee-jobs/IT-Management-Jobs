@@ -1,55 +1,55 @@
 name: Update Job Board
 
 on:
+  # Run every 2 hours
   schedule:
-    # Run every 2 hours
     - cron: '0 */2 * * *'
-  
+
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
-  
-  # Run on push to main (for testing)
-  # push:
-  #   branches:
-  #     - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+    env:
+      MONGO_URL: ${{ secrets.MONGO_URL }}
+      MARKETING_URI: ${{ secrets.MARKETING_URI }}
+      WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
+
     steps:
       - name: 🔧 Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: 📦 Install dependencies
         run: npm ci
-      
+
       - name: 🔄 Update job listings
-        env:
-          MONGO_URL: ${{ secrets.MONGO_URL }}
-          MARKETING_URI: ${{ secrets.MARKETING_URI }}
-          WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
         run: node main-readme-final.js
-      
+
       - name: 📝 Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update job board - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
-      
+          if [ -f README.md ]; then
+            git add README.md
+            git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "🤖 Auto-update job board - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+          else
+            echo "README.md not found, skipping commit."
+          fi
+
       - name: ✅ Success notification
         if: success()
         run: echo "✅ Job board updated successfully!"
-      
+
       - name: ❌ Failure notification
         if: failure()
         run: echo "❌ Job board update failed. Check the logs above."
