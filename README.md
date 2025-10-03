@@ -3017,7 +3017,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Friday, October 3, 2025 at 04:01 PM UTC**
+**Friday, October 3, 2025 at 06:00 PM UTC**
 
 ---
 
