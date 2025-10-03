@@ -16,28 +16,28 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="#📊-data-scientist">
+<a href="#-data-scientist">
 <img src="https://img.shields.io/badge/📊_Data_Scientist-1000_Jobs-blue?style=for-the-badge" alt="Data Scientist">
 </a>
 <br>
 <sub><b>1000</b> total positions</sub>
 </td>
 <td align="center" width="25%">
-<a href="#💼-business-analyst">
+<a href="#-business-analyst">
 <img src="https://img.shields.io/badge/💼_Business_Analyst-1000_Jobs-blue?style=for-the-badge" alt="Business Analyst">
 </a>
 <br>
 <sub><b>1000</b> total positions</sub>
 </td>
 <td align="center" width="25%">
-<a href="#🚀-product-manager">
+<a href="#-product-manager">
 <img src="https://img.shields.io/badge/🚀_Product_Manager-1000_Jobs-blue?style=for-the-badge" alt="Product Manager">
 </a>
 <br>
 <sub><b>1000</b> total positions</sub>
 </td>
 <td align="center" width="25%">
-<a href="#💻-full-stack-developer">
+<a href="#-full-stack-developer">
 <img src="https://img.shields.io/badge/💻_Full_Stack_Developer-1000_Jobs-blue?style=for-the-badge" alt="Full Stack Developer">
 </a>
 <br>
@@ -51,6 +51,7 @@
 ---
 
 ## 📊 Data Scientist
+<a name="-data-scientist"></a>
 
 > 💼 **1000** active positions available
 
@@ -772,6 +773,7 @@
 ---
 
 ## 💼 Business Analyst
+<a name="-business-analyst"></a>
 
 > 💼 **1000** active positions available
 
@@ -1493,6 +1495,7 @@
 ---
 
 ## 🚀 Product Manager
+<a name="-product-manager"></a>
 
 > 💼 **1000** active positions available
 
@@ -2214,6 +2217,7 @@
 ---
 
 ## 💻 Full Stack Developer
+<a name="-full-stack-developer"></a>
 
 > 💼 **1000** active positions available
 
@@ -3016,7 +3020,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Friday, October 3, 2025 at 10:58 AM GMT+5:30**
+**Friday, October 3, 2025 at 11:22 AM GMT+5:30**
 
 ---
 
