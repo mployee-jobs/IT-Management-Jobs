@@ -87,7 +87,7 @@ const generateJobUrl = (job, profile) => {
   // Base URL from environment or default
   const baseUrl = process.env.WEBSITE_URL || 'https://yourwebsite.com';
   
-  return `${baseUrl}/job/view/${profileSlug}-jobs-in-${locationSlug}-at-${companySlug}-${job._id}`;
+  return `${baseUrl}/jobs/view/${profileSlug}-jobs-in-${locationSlug}-at-${companySlug}-${job._id}`;
 };
 
 // Calculate time ago from date
