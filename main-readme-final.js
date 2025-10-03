@@ -59,6 +59,7 @@ const PROFILES_TO_INCLUDE = [
 
 const PROFILE_REGEX_MAPPING = {};
 const PROFILE_JOBS_MAPPING = {};
+const PROFILE_MAPPING_WITH_JOB_PAGES = {};
 
 // ======================= Utility =======================
 const convertProfileArrayIntoRegex = (profileRegex) =>
@@ -81,13 +82,13 @@ function createSlug(text) {
 // Generate dynamic job URL
 const generateJobUrl = (job, profile) => {
   const companySlug = createSlug(job.company);
-  const locationSlug = createSlug(job.locationNew || job.location);
-  const profileSlug = createSlug(profile);
+  const locationSlug = PROFILE_MAPPING_WITH_JOB_PAGES[profile]["location"]
+  const profileSlug = PROFILE_MAPPING_WITH_JOB_PAGES[profile]["profile"]
   
   // Base URL from environment or default
   const baseUrl = process.env.WEBSITE_URL || 'https://yourwebsite.com';
   
-  return `${baseUrl}/jobs/view/${profileSlug}-jobs-in-${locationSlug}-at-${companySlug}-${job._id}`;
+  return `${baseUrl}/jobs/view/${profileSlug}-in-${locationSlug}-at-${companySlug}-${job._id}`;
 };
 
 // Calculate time ago from date
@@ -425,11 +426,34 @@ Found a broken link or want to add a job posting? Feel free to:
   }
 };
 
+// ======================== Job Pages Mapping With Profile =============
+const mapJobPages = async()=>{
+  try{
+
+    const client = await getMarketingClient();
+    const jobPagesCollection = await getCollection(client , "jobpages");
+    const jobPages = await jobPagesCollection
+    .find({ title : {$in : PROFILES_TO_INCLUDE} })
+    .sort({createdAt : -1})
+    .toArray();
+
+    jobPages.forEach(jobPage=>{
+      PROFILE_MAPPING_WITH_JOB_PAGES[jobPage?.["title"]] = {profile : jobPage?.["tag1"] , location : jobPage?.["tag2"]  }
+    })
+
+    console.log("✅ JobPages mapped with profiles");
+
+  }catch(err){
+    console.log("[ERROR] in MapJobPages function : " , err.message)
+  }
+}
+
 // ======================= Main Orchestration =======================
 const main = async () => {
   try {
     await generateProfileRegex(); // from MAIN DB
     await fetchJobs(); // from MARKETING DB
+    await mapJobPages(); // mapping the job pages with profile
     generateReadme(); // Generate README
     console.log("✅ Job fetching and README generation complete");
   } catch (err) {
