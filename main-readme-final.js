@@ -67,16 +67,16 @@ const convertProfileArrayIntoRegex = (profileRegex) =>
     .join("|");
 
 // Create URL-friendly slug
-const createSlug = (text) => {
-  if (!text) return '';
-  return text
-    .toString()
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, '-')
-    .replace(/[^\w-]+/g, '')
-    .replace(/--+/g, '-');
-};
+function createSlug(text) {
+    if (!text) return ''
+    return text
+      .toString()
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w-]+/g, '')
+      .replace(/--+/g, '-')
+  }
 
 // Generate dynamic job URL
 const generateJobUrl = (job, profile) => {
