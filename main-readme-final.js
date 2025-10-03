@@ -33,9 +33,7 @@ const getCollection = (client, collectionName, dbName = "test") =>
 // ====================== Logger ===========================
 const logger = () => {
   PROFILES_TO_INCLUDE.map((profile) =>
-    console.log(`
-		✅ Jobs fetched for ${profile}: ${PROFILE_JOBS_MAPPING?.[profile]?.length || 0}
-		`)
+    console.log(`✅ Jobs fetched for ${profile}: ${PROFILE_JOBS_MAPPING?.[profile]?.length || 0}`)
   );
 };
 
@@ -49,7 +47,6 @@ const TO_INCLUDE = {
   country: 1,
   postedDateTime: 1,
   posted_date: 1,
-  job_link: 1,
   _id: 1,
 };
 
@@ -68,6 +65,30 @@ const convertProfileArrayIntoRegex = (profileRegex) =>
   profileRegex
     .map((p) => `\\b${p.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`)
     .join("|");
+
+// Create URL-friendly slug
+const createSlug = (text) => {
+  if (!text) return '';
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '')
+    .replace(/--+/g, '-');
+};
+
+// Generate dynamic job URL
+const generateJobUrl = (job, profile) => {
+  const companySlug = createSlug(job.company);
+  const locationSlug = createSlug(job.locationNew || job.location);
+  const profileSlug = createSlug(profile);
+  
+  // Base URL from environment or default
+  const baseUrl = process.env.WEBSITE_URL || 'https://yourwebsite.com';
+  
+  return `${baseUrl}/job/view/${profileSlug}-jobs-in-${locationSlug}-at-${companySlug}-${job._id}`;
+};
 
 // Calculate time ago from date
 const getTimeAgo = (dateString) => {
@@ -170,16 +191,12 @@ const generateReadme = () => {
 
     // Calculate statistics
     let totalJobs = 0;
-    let activeJobs = 0;
-    let closedJobs = 0;
     let remoteJobs = 0;
 
     PROFILES_TO_INCLUDE.forEach((profile) => {
       const jobs = PROFILE_JOBS_MAPPING[profile] || [];
       totalJobs += jobs.length;
       jobs.forEach((job) => {
-        if (job.job_link) activeJobs++;
-        else closedJobs++;
         if ((job.locationNew || job.location || "").toLowerCase().includes("remote")) {
           remoteJobs++;
         }
@@ -194,7 +211,6 @@ const generateReadme = () => {
 
 ### Your Gateway to Amazing Career Opportunities
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-${activeJobs}-brightgreen?style=for-the-badge&logo=briefcase)
 ![Total Listings](https://img.shields.io/badge/Total_Listings-${totalJobs}-blue?style=for-the-badge&logo=database)
 ![Last Updated](https://img.shields.io/badge/Updated-${new Date().toLocaleDateString()}-orange?style=for-the-badge&logo=clock)
 
@@ -211,11 +227,10 @@ const generateReadme = () => {
       const emoji = getProfileEmoji(profile);
       const anchor = profile.toLowerCase().replace(/\s+/g, "-");
       const jobCount = PROFILE_JOBS_MAPPING[profile]?.length || 0;
-      const activeCount = (PROFILE_JOBS_MAPPING[profile] || []).filter((j) => j.job_link).length;
       
       content += `<td align="center" width="25%">
 <a href="#-${anchor}">
-<img src="https://img.shields.io/badge/${emoji}_${profile.replace(/ /g, '_')}-${activeCount}_Jobs-blue?style=for-the-badge" alt="${profile}">
+<img src="https://img.shields.io/badge/${emoji}_${profile.replace(/ /g, '_')}-${jobCount}_Jobs-blue?style=for-the-badge" alt="${profile}">
 </a>
 <br>
 <sub><b>${jobCount}</b> total positions</sub>
@@ -235,14 +250,13 @@ const generateReadme = () => {
     PROFILES_TO_INCLUDE.forEach((profile) => {
       const jobs = PROFILE_JOBS_MAPPING[profile] || [];
       const emoji = getProfileEmoji(profile);
-      const activeCount = jobs.filter((j) => j.job_link).length;
       const anchor = profile.toLowerCase().replace(/\s+/g, "-");
 
       content += `
 ## ${emoji} ${profile}
 <a name="-${anchor}"></a>
 
-> 💼 **${activeCount}** active positions available
+> 💼 **${jobs.length}** positions available
 
 <table>
 <thead>
@@ -251,7 +265,7 @@ const generateReadme = () => {
 <th width="35%">💼 Role</th>
 <th width="20%">📍 Location</th>
 <th width="10%">⏰ Posted</th>
-<th width="15%">🔗 Apply</th>
+<th width="15%">🔗 Action</th>
 </tr>
 </thead>
 <tbody>
@@ -269,12 +283,9 @@ const generateReadme = () => {
           const location = getLocationBadge(job.locationNew || job.location);
           const posted = getTimeAgo(job.posted_date || job.postedDateTime);
 
-          let apply;
-          if (job.job_link) {
-            apply = `<a href="${job.job_link}"><img src="https://img.shields.io/badge/Apply-Now-blue?style=flat-square&logo=briefcase" alt="Apply"></a>`;
-          } else {
-            apply = `<img src="https://img.shields.io/badge/Closed-red?style=flat-square&logo=lock" alt="Closed">`;
-          }
+          // Generate dynamic URL for your website
+          const jobUrl = generateJobUrl(job, profile);
+          const apply = `<a href="${jobUrl}"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a>`;
 
           content += `<tr>
 <td>${company}</td>
@@ -305,8 +316,6 @@ const generateReadme = () => {
 
 | Metric | Count |
 |:-------|------:|
-| 🟢 Active Positions | **${activeJobs}** |
-| 🔴 Closed Positions | **${closedJobs}** |
 | 📊 Total Listings | **${totalJobs}** |
 | 🌍 Remote Jobs | **${remoteJobs}** |
 `;
@@ -327,7 +336,7 @@ const generateReadme = () => {
 \`\`\`mermaid
 graph LR
     A[📋 Browse Jobs] --> B[🔍 Find Your Match]
-    B --> C[💼 Click Apply Now]
+    B --> C[💼 Click View Job]
     C --> D[📝 Submit Application]
     D --> E[🎉 Get Hired!]
     
@@ -342,9 +351,9 @@ graph LR
 
 ### Steps to Apply:
 1. 🔍 **Browse** through the positions above
-2. 💼 **Click** the "Apply Now" button on your preferred role
-3. 📝 **Complete** the application on the company's website
-4. ✉️ **Wait** for the company to review your application
+2. 💼 **Click** the "View Job" button on your preferred role
+3. 📝 **Complete** the application on our website
+4. ✉️ **Wait** for us to review your application
 5. 🎉 **Celebrate** when you get the interview call!
 
 ---
@@ -374,7 +383,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](${process.env.WEBSITE_URL || 'https://yourwebsite.com'})
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/yourcompany)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourcompany)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
@@ -409,8 +418,6 @@ Found a broken link or want to add a job posting? Feel free to:
     console.log("✅ README.md generated successfully!");
     console.log(`📊 Statistics:`);
     console.log(`   - Total jobs: ${totalJobs}`);
-    console.log(`   - Active jobs: ${activeJobs}`);
-    console.log(`   - Closed jobs: ${closedJobs}`);
     console.log(`   - Remote jobs: ${remoteJobs}`);
   } catch (err) {
     console.error("[ERROR] Generating README:", err);
