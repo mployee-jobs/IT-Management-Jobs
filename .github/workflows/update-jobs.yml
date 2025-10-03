@@ -1,5 +1,9 @@
 name: Update Job Board
 
+permissions:
+  contents: write
+
+
 on:
   # Run every 2 hours
   schedule:
