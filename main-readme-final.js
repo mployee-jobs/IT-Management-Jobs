@@ -48,6 +48,7 @@ const TO_INCLUDE = {
   postedDateTime: 1,
   posted_date: 1,
   _id: 1,
+  "Job ID (Numeric)" : 1
 };
 
 const PROFILES_TO_INCLUDE = [
@@ -88,7 +89,7 @@ const generateJobUrl = (job, profile) => {
   // Base URL from environment or default
   const baseUrl = process.env.WEBSITE_URL || 'https://yourwebsite.com';
   
-  return `${baseUrl}/jobs/view/${profileSlug}-in-${locationSlug}-at-${companySlug}-${job._id}`;
+  return `${baseUrl}/jobs/view/${profileSlug}-in-${locationSlug}-at-${companySlug}-${job["Job ID (Numeric)"]}/s1`;
 };
 
 // Calculate time ago from date
