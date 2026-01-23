@@ -6,7 +6,7 @@
 ### Your Gateway to Amazing Career Opportunities
 
 ![Total Listings](https://img.shields.io/badge/Total_Listings-4000-blue?style=for-the-badge&logo=database)
-![Last Updated](https://img.shields.io/badge/Updated-1/21/2026-orange?style=for-the-badge&logo=clock)
+![Last Updated](https://img.shields.io/badge/Updated-1/23/2026-orange?style=for-the-badge&logo=clock)
 
 ---
 
@@ -66,704 +66,704 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://in.linkedin.com/company/aaizel-international-technologies-pvt-ltd">Aaizel International Technologies Pvt Ltd</a></td>
+<td>Differentbyte Technologies</td>
+<td>Python Developer(Fast API)</td>
+<td>📍 Kochi</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-differentbyte-technologies-220126007838/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>The Celeritas Ai</td>
+<td>Machine Learning And Artificial Intelligence engineer</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-the-celeritas-ai-220126007767/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-funding-societies-modalku-group-4354156904/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
+<td>📍 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-funding-societies-modalku-group-4354292376/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bayone-solutions">BayOne Solutions</a></td>
+<td>Software Engineer (Network/Python)</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bayone-solutions-4365237147/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bayone-solutions">BayOne Solutions</a></td>
+<td>AI/ML Engineer</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bayone-solutions-4365223388/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://de.linkedin.com/company/contentful">Contentful</a></td>
+<td>Analytics Engineer</td>
+<td>📍 Denver, CO</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-contentful-4365219551/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hcltech">HCLTech</a></td>
+<td>Business Analyst (Data & Analytics)</td>
+<td>📍 Bangkok, Bangkok City, Thailand</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hcltech-4365235162/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/accelyzei-overview">Accelyzei</a></td>
 <td>AI/ML Intern</td>
-<td>📍 Gurugram</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-aaizel-international-technologies-pvt-ltd-4360837870/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-wake-up-whistle-4360888122/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/exventurenight">EX Venture Inc.</a></td>
-<td>AI & Automation Internship In Bali</td>
-<td>📍 Denpasar, Bali, Indonesia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ex-venture-inc-4360497912/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Programista Python</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algoteque-innovation-hub-4364217962/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td>Ryzeup</td>
-<td>Machine Learning Intern</td>
 <td>📍 Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ryzeup-190126019211/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-accelyzei-210126044516/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td>Estyl</td>
-<td>Data Engineer Intern (GCP, BigQuery, Airflow, Vertex AI) - Remote</td>
-<td>![Remote](https://img.shields.io/badge/🌍_Remote-green)</td>
+<td><a href="https://www.linkedin.com/company/%E7%A1%95%E8%BD%AF%EF%BC%88%E4%B8%8A%E6%B5%B7%EF%BC%89%E8%BD%AF%E4%BB%B6%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">硕软（上海）软件贸易有限公司</a></td>
+<td>Python Engineer</td>
+<td>📍 Shanghai, Shanghai, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-estyl-190126034837/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at--4365219395/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/techolution-mobi">techolution</a></td>
-<td>Azure Devops Intern</td>
-<td>📍 Hyderabad</td>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师（Python, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-techolution-4360398205/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at--4365227080/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://my.linkedin.com/company/kpmg-malaysia">KPMG Malaysia</a></td>
-<td>Internship - L&D (Automation Team) (Petaling Jaya)</td>
-<td>📍 Petaling Jaya, Selangor, Malaysia</td>
+<td><a href="https://www.linkedin.com/company/nightwing-us">Nightwing</a></td>
+<td>Artificial Intelligence Intern - 2026</td>
+<td>📍 Sterling, VA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-kpmg-malaysia-4324260066/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-nightwing-4343468239/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://de.linkedin.com/company/schulz-systemtechnik">SCHULZ Systemtechnik</a></td>
-<td>Studenten (m/w/d)  für Praxissemester & Praktika Automatisierung, SPS-Technik und Robotik</td>
-<td>📍 Bremen, Bremen, Germany</td>
+<td><a href="https://www.linkedin.com/company/cienet-technologies">CIeNET Technologies</a></td>
+<td>Pyhton后端开发（AWS\微软云\机器学习)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-schulz-systemtechnik-4364268124/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-cienet-technologies-4365215570/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Ingeniero SQL - Trabajo Remoto</td>
-<td>📍 Mexico</td>
+<td><a href="https://cn.linkedin.com/company/%E5%8C%97%E4%BA%AC%E4%B8%BB%E7%BA%BF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">主线科技 TRUNK.TECH</a></td>
+<td>（校招）平台软件开发工程师（python）</td>
+<td>📍 Tianjin, Tianjin, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360953686/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at--trunktech-4365230012/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ae.linkedin.com/company/sekuen">Sekuen</a></td>
-<td>Data science internship at Sekuen LLC</td>
-<td>📍 India</td>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师(Python, Go, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sekuen-4354021078/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at--4365204924/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/reebelo">Reebelo</a></td>
-<td>Senior Full Stack Engineer, Marketplace (Node.js, AWS)</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
+<td><a href="https://www.linkedin.com/company/%E9%BA%A6%E6%A0%BC%E7%BA%B3%E7%94%B5%E5%AD%90-%E8%8B%8F%E5%B7%9E-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">麦格纳电子(苏州)有限公司</a></td>
+<td>Python开发</td>
+<td>📍 Tianjin, Tianjin, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-reebelo-4364238036/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/unfold-technologies-private-limited">Unfold Technologies Private Limited</a></td>
-<td>Industrial Automation Engineer</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-unfold-technologies-private-limited-4357640593/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://vn.linkedin.com/company/vmogroup">VMO</a></td>
-<td>Python Developer (From 4YoE)</td>
-<td>📍 Hanoi Capital Region</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-vmo-4360953631/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/dexianindia">Dexian India</a></td>
-<td>Python React Developer</td>
-<td>📍 Singapore, Singapore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-dexian-india-4360962285/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/innomountain">InnoMountain</a></td>
-<td>System and Hardware Engineering Internship (R&D 5G Systems)</td>
-<td>📍 United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-innomountain-4364288019/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/johnson-controls">Johnson Controls</a></td>
-<td>Software Engineer - Data Scientist</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-johnson-controls-4353931022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/skillfiedmentor">SkillFied Mentor</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-skillfied-mentor-4364268076/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/simprosys-infomedia-overview">Simprosys Infomedia</a></td>
-<td>Python Intern</td>
-<td>📍 Ahmedabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-simprosys-infomedia-80126500339/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore Urban, Karnataka, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360962189/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://br.linkedin.com/company/tractian">TRACTIAN 𝗕𝗥</a></td>
-<td>Data Scientist</td>
-<td>📍 São Paulo, São Paulo, Brazil</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-tractian--4364624777/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/legacy-restoration-llc">Legacy Restoration</a></td>
-<td>Five9 Admin- Data Analytics</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-legacy-restoration-4364237704/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ibm-4354051344/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/td">TD</a></td>
-<td>Senior Manager, Data Science</td>
-<td>📍 Toronto, Ontario, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-td-4364317734/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/dun-&-bradstreet">Dun & Bradstreet</a></td>
-<td>Business Development and Account Management (R-18777)</td>
-<td>📍 Hong Kong SAR</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-dun-bradstreet-4364347789/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Varanasi, Uttar Pradesh, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360971087/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Faridabad, Haryana, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360487714/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Jaipur, Rajasthan, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360962225/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://jp.linkedin.com/company/fidel-consulting-kk">Fidel Consulting KK</a></td>
-<td>Pythonエンジニア(9960)</td>
-<td>📍 Tokyo, Japan</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-fidel-consulting-kk-4364277905/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://mx.linkedin.com/company/vitro">Vitro</a></td>
-<td>Robotics & Automation Engineer</td>
-<td>📍 Tipton, PA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-vitro-4362454208/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/commonwealthbank">Commonwealth Bank</a></td>
-<td>Advanced Analytics Manager</td>
-<td>📍 Sydney, New South Wales, Australia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-commonwealth-bank-4364217801/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Consultant, Data Analytics Reporting-Food at Cargill</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hackajob-4360398051/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://br.linkedin.com/company/itau">Itaú Unibanco</a></td>
-<td>Analista de RH Pleno (Foco em People Analytics)</td>
-<td>📍 São Paulo, São Paulo, Brazil</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ita-unibanco-4364327653/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Full Stack Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4364307640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Cloud Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4364217751/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>AlgoNext Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4364387587/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at--4365201825/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
 <td>CloudFlow Automation Developer, India</td>
 <td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4364397494/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4365208730/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/andrew-an-amphenol-company">ANDREW an Amphenol company</a></td>
-<td>Engineer II, R&D</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>AlgoNext Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-andrew-an-amphenol-company-4360497682/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4365214329/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Cloud Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360457677/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4365199808/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Indore, Madhya Pradesh, India</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Full Stack Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360971039/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-algosec-4365211650/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Chennai</td>
+<td><a href="https://fr.linkedin.com/company/capgemini">Capgemini</a></td>
+<td>Machine Learning Engineer</td>
+<td>📍 Dallas, TX</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360807759/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-capgemini-4365207168/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://br.linkedin.com/company/unifisa">UNIFISA ADM NACIONAL DE CONSORCIOS LTDA.</a></td>
-<td>Desenvolvedor(a) Python Jr.</td>
-<td>📍 Santana de Parnaíba, São Paulo, Brazil</td>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Deep Learning Software Engineer, Inference and Model Optimization</td>
+<td>📍 Santa Clara, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-unifisa-adm-nacional-de-consorcios-ltda-4364227728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-nvidia-4365203131/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://fr.linkedin.com/company/notonlygeek">Notonlygeek</a></td>
-<td>Développeur informatique python</td>
-<td>📍 Dijon, Bourgogne-Franche-Comté, France</td>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Deep Learning Software Engineer, Inference and Model Optimization</td>
+<td>📍 Santa Clara, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-notonlygeek-4364217318/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-nvidia-4365211027/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ch.linkedin.com/company/abb">ABB</a></td>
-<td>Automation Engineer</td>
-<td>📍 Thane</td>
+<td><a href="https://www.linkedin.com/company/mayo-clinic">Mayo Clinic</a></td>
+<td>Intern - Data Science - AI</td>
+<td>📍 Rochester, MN</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-abb-4364387478/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-mayo-clinic-4365207034/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/radix-health-io">Radix Health</a></td>
-<td>Senior Machine Learning Engineer</td>
-<td>📍 San Francisco, CA</td>
+<td><a href="https://www.linkedin.com/company/sas">SAS</a></td>
+<td>CareerStart@SAS 2026 - Customer Facing Intern – AI, Data Science & Risk Management</td>
+<td>📍 Marlow, England, United Kingdom</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-radix-health-4364277668/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sas-4334680246/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Coimbatore</td>
+<td><a href="https://www.linkedin.com/company/plymouth-rock-assurance">Plymouth Rock Assurance</a></td>
+<td>Data Science Intern</td>
+<td>📍 Boston, MA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360497703/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-plymouth-rock-assurance-4362551847/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/knightecgroup">Knightec Group</a></td>
-<td>Automation Engineer</td>
-<td>📍 Uppsala, Uppsala County, Sweden</td>
+<td><a href="https://www.linkedin.com/company/jabil">Jabil</a></td>
+<td>Data Science Engineering Intern</td>
+<td>📍 St. Petersburg, FL</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-knightec-group-4364287763/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360807719/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-jabil-4362118392/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Pune</td>
+<td>Data Scientist - Generative AI</td>
+<td>📍 Gurugram</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ibm-4354070787/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ibm-4355222158/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Pune</td>
+<td><a href="https://www.linkedin.com/company/genentech">Genentech</a></td>
+<td>2026 Summer Intern - Product Development Data Sciences and Analytics</td>
+<td>📍 South San Francisco, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bairesdev-4360497692/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-genentech-4365174879/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/icresources">IC Resources</a></td>
-<td>Lead Software Engineer: AWS/React/Node (On-Site):  $180-250K+</td>
-<td>📍 Austin, Texas Metropolitan Area</td>
+<td><a href="https://ch.linkedin.com/company/world-health-organization">World Health Organization</a></td>
+<td>SSA - Monitoring, Evaluation, Research and Learning Officer</td>
+<td>📍 Suva, Central, Fiji</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ic-resources-4362970952/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-world-health-organization-4365188789/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Warehouse Automation Engineer (remote)</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364217123/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/technica-engineering-gmbh">Technica Engineering GmbH</a></td>
-<td>Wirtschaftsingenieur (m/w/d) als Project Coordinator für Entwicklungsprojekte im Automotive</td>
-<td>📍 Munich, Bavaria, Germany</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-technica-engineering-gmbh-4364640949/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/teamviewer">TeamViewer</a></td>
-<td>Azure Cloud Integration Developer</td>
-<td>📍 Mumbai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-teamviewer-4364257673/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/att">AT&T</a></td>
-<td>Manager-Technology (Java/J2EE, Angular, React, Node.js, Azure)</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-att-4360962116/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/att">AT&T</a></td>
-<td>Senior Specialist-Power BI, cyber data analytics,data visualisation,Cyber Security Operations Metrics Analyst-</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-att-4360953468/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/radix-health-io">Radix Health</a></td>
-<td>Senior Machine Learning Engineer</td>
-<td>📍 New York, NY</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-radix-health-4364367485/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Staff QA Automation Engineer</td>
-<td>📍 San Jose, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364087293/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/free-work-uk">Free-Work UK</a></td>
-<td>Graduate Systems Engineer (Python and SQL)</td>
-<td>📍 Bloxwich, England, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-free-work-uk-4364227381/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student - Data Science & Advanced Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-enmax-4360917394/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/radix-health-io">Radix Health</a></td>
-<td>Senior Machine Learning Engineer</td>
-<td>📍 Los Angeles, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-radix-health-4364087716/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Data Scientist</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364367197/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/micron-agritech">Micron Agritech</a></td>
-<td>Senior Machine Learning (ML) Engineer</td>
-<td>📍 Dublin, County Dublin, Ireland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-micron-agritech-4364615571/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/marley-spoon">Marley Spoon</a></td>
-<td>Data Scientist</td>
-<td>📍 Lisbon, Lisbon, Portugal</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-marley-spoon-4364277432/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Cloud Network Engineer (Azure/AWS)</td>
+<td><a href="https://www.linkedin.com/company/ascensionorg">Ascension</a></td>
+<td>Clinical Research Analytics Intern</td>
 <td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364087361/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ascension-4362164736/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/royal-caribbean-group">Royal Caribbean Group</a></td>
-<td>Senior Analyst, Financial Data Analytics & Visualization</td>
-<td>📍 Miami, FL</td>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>AI/ML PhD Intern (Summer 2026)</td>
+<td>📍 San Francisco, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-royal-caribbean-group-4364615975/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sigma-4365012863/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student, Asset Performance Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
+<td><a href="https://www.linkedin.com/company/bakerhughes">Baker Hughes</a></td>
+<td>Lead Engineer, Customer Order Engineering - Automation & Control</td>
+<td>📍 Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-enmax-4360397731/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-baker-hughes-4361348277/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Algorithm and Analytics Consultant</td>
-<td>📍 Phoenix, AZ</td>
+<td><a href="https://www.linkedin.com/company/eosysgroup">EOSYS</a></td>
+<td>Associate Commercial Data Science Intern</td>
+<td>📍 New York, NY</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364067436/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-eosys-4365191337/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Manager, Data & Analytics</td>
-<td>📍 St Paul, MN</td>
+<td><a href="https://www.linkedin.com/company/instacart">Instacart</a></td>
+<td>Machine Learning Engineer, PhD Intern</td>
+<td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364307075/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-instacart-4364663964/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>2026 Summer Marketing Analytics Internship - Cleveland</td>
-<td>📍 Cleveland, OH</td>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>Senior AI/ML Engineer</td>
+<td>📍 San Francisco, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364317358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sigma-4365005929/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>Senior AI/ML Engineer</td>
+<td>📍 New York, NY</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sigma-4365001985/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Automation - Selenium Java Python_JL5</td>
+<td>Automation Tester</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360877625/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362174013/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://fr.linkedin.com/company/spinergie">Spinergie</a></td>
-<td>Data Scientist (Market Intelligence) - Internship, Paris</td>
+<td><a href="https://www.linkedin.com/company/morningstar">Morningstar</a></td>
+<td>Lead Machine Learning Engineer</td>
+<td>📍 Navi Mumbai, Maharashtra, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-morningstar-4326527000/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ai-tensors">AI Tensors, Corp. (Aka: AITCare)</a></td>
+<td>Computer Vision Founding Engineer (Prior AI&ML Experience required)</td>
+<td>📍 Greater Visakhapatnam Area</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ai-tensors-corp-aka-aitcare-4362512095/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>S2R_DNA_JAVA/PYTHON/APACHE_Q4_FY26</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362521901/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://au.linkedin.com/company/qantas">Qantas</a></td>
+<td>Principal Analyst Reporting & Data Analysis</td>
+<td>📍 Sydney, New South Wales, Australia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-qantas-4365193288/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ncratleos">NCR Atleos</a></td>
+<td>Artificial Intelligence Engineer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ncr-atleos-4365185709/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AI/ML Architect</td>
+<td>📍 Trivandrum, Kerala, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362118197/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-grid-dynamics-4365191159/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Senior Test Engineer-Automation Testing</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-cgi-4365191358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Automation-Senior Test Engineer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-cgi-4365176918/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AVD (Azure Virtual Desktop) Consultant</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362109815/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/gsk">GSK</a></td>
+<td>Associate Director, Trial Operations Analytics</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-gsk-4365178271/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-grid-dynamics-4365178696/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/airbnb">Airbnb</a></td>
+<td>Senior Data Scientist, Pricing</td>
+<td>📍 United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-airbnb-4365174741/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AWS DevOps Consultant - QLTY</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362561663/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ch.linkedin.com/company/jobcourier">JobCourier</a></td>
+<td>Cybersecurity Engineer ? Azure Cloud Environment</td>
+<td>📍 Vaud, Switzerland</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-jobcourier-4365176674/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/best-job-tool">Best Job Tool</a></td>
+<td>AWS Engineer</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-best-job-tool-4365187228/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Automation Tester- Cypress Testing Framework</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362109821/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>AWS Engineer - Manager</td>
+<td>📍 Los Angeles, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4365184454/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/crashplan">CrashPlan</a></td>
+<td>AI/ML Engineer Intern</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-crashplan-4365178236/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AWS Professional</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362155323/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python Developer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362183416/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python ML Engineer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4362118165/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-year-up-united-4362521705/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/jobs-via-dice">Jobs via Dice</a></td>
+<td>Data Science and Machine Learning Intern</td>
+<td>📍 Bedford, MA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-jobs-via-dice-4362601400/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/racetrac">RaceTrac</a></td>
+<td>Data Science Intern (Summer 2026)</td>
+<td>📍 Atlanta, GA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-racetrac-4362089439/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Washington, DC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-year-up-united-4362541625/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/eg4-electronics">EG4 Electronics</a></td>
+<td>Engineering Data Analysis Intern</td>
+<td>📍 Dallas, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-eg4-electronics-4354241985/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://fr.linkedin.com/company/indefi">INDEFI</a></td>
+<td>Data Scientist Intern F/H</td>
 <td>📍 Paris, Île-de-France, France</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-spinergie-4360397577/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-indefi-4362145938/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/wipro">Wipro</a></td>
-<td>AUTOMATION ENGINEER L4</td>
+<td><a href="https://ae.linkedin.com/company/theoceann">theoceann.ai</a></td>
+<td>theoceann.ai - Senior Full Stack Developer - Python/React.js</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-theoceannai-4365188020/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/ripik-ai">Ripik.AI</a></td>
+<td>Ripik AI - Tech Lead - Java/Python</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ripikai-4365180117/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ingrain-systems-inc">Ingrain Systems Inc</a></td>
+<td>Quality Assurance Automation Engineer - Java/Selenium</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ingrain-systems-inc-4365187025/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/hcl-technologies-overview">HCLTech</a></td>
+<td>Hiring Python & Senior Python Developer - Bangalore Location</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-wipro-4364641014/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hcltech-220126005282/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Automation Design Engineer</td>
-<td>📍 San Diego, CA</td>
+<td><a href="https://www.ambitionbox.com/overview/cloudraptor-overview">Cloud Raptor</a></td>
+<td>Python Software Developer</td>
+<td>📍 Mumbai, Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364377074/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://fr.linkedin.com/company/sodexo">Sodexo</a></td>
-<td>Auxiliar General/ Régimen 14 x7 /Arequipa</td>
-<td>📍 Arequipa, Arequipa, Peru</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sodexo-4364207117/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director, Product Analytics</td>
-<td>📍 Las Vegas, NV</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364277294/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/marley-spoon">Marley Spoon</a></td>
-<td>Lead Data Scientist</td>
-<td>📍 Lisbon, Lisbon, Portugal</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-marley-spoon-4364247603/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Deep Learning Algorithm Engineer</td>
-<td>📍 Santa Clara, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364632486/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>WD Visual Designer (Data Visualization)</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360457334/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/pratt-&-whitney">Pratt & Whitney</a></td>
-<td>F135 Analytics Engineer (Remote)</td>
-<td>📍 East Hartford, CT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-pratt-whitney-4364237456/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Python Automation Network Tester</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360945719/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>MLE/MLOps, OOPs Python, Data Bricks,Azure</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360477497/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pe.linkedin.com/company/liderman">Liderman</a></td>
-<td>Conductor para unidad minera/Cusco/ régimen 14x7</td>
-<td>📍 Chorrillos, Peru</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-liderman-4364297065/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Director - Data Science</td>
-<td>📍 Boston, MA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364615655/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director, Global Business Development Forecasting</td>
-<td>📍 Mettawa, IL</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364377049/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Python Senior lead</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360935708/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Senior Data Scientist</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360447558/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Manager, Data and Analytics</td>
-<td>📍 Durham, NC</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364237328/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>GCP/Google Cloud Platform Developer</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360897355/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-cloud-raptor-121225022082/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/hirenza-pvt-ltd">Hirenza</a></td>
-<td>AWS Data Engineer</td>
+<td>Python Developer</td>
 <td>📍 India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hirenza-4364615378/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hirenza-4365181206/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>AWS Connect Developer</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364615642/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Associate Data Scientist, Taste Ingredient Discovery - San Diego, CA</td>
-<td>📍 San Diego, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364207159/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>AI Engineer - AWS</td>
+<td><a href="https://in.linkedin.com/company/hyperface">Hyperface</a></td>
+<td>Software Development Engineer - Golang/Java/Python</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360867313/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hyperface-4365171382/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/etechgroup">E Tech Group</a></td>
-<td>Automation Engineer - Rockwell and Siemens PLC</td>
-<td>📍 Pune</td>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Senior Sales Analyt Senior Specialist – Sales Performance Reporting & Analytics Specialist</td>
+<td>📍 Gurugram</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-e-tech-group-4364215089/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ntt-data-inc-4355241728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/p99soft">P99SOFT</a></td>
-<td>Junior AI/ML engineer</td>
+<td><a href="https://in.linkedin.com/company/hirenza-pvt-ltd">Hirenza</a></td>
+<td>Data Science Analyst</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-hirenza-4365170604/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/golden-legand-leasing-and-finance-ltd">Golden Legand Leasing and Finance Ltd.</a></td>
+<td>Interesting Job Opportunity: Data Scientist - Machine Learning</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-golden-legand-leasing-and-finance-ltd-4365181134/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Principal Specialist – Sales Analytics & Forecasting</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ntt-data-inc-4354201979/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/sedin-technologies">Sedin Technologies</a></td>
+<td>Sedin Technologies - Data Architect - Python/Spark</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sedin-technologies-4365166715/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ingrain-systems-inc">Ingrain Systems Inc</a></td>
+<td>Data Engineer - AWS/PySpark</td>
 <td>📍 Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-p99soft-4360897333/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ingrain-systems-inc-4365170538/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/gallagher-mohan">Gallagher & Mohan</a></td>
-<td>Business Analyst (Python)</td>
-<td>📍 Delhi</td>
+<td><a href="https://www.linkedin.com/company/robosoft-technologies">Robosoft Technologies</a></td>
+<td>Interesting Job Opportunity: Robosoft Technologies - Automation Tester - Appium/Java/Selenium</td>
+<td>📍 Udupi, Karnataka, India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-gallagher-mohan-4360487289/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-robosoft-technologies-4365167638/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://hk.linkedin.com/company/fanolabs">Fano (Fano Labs)</a></td>
-<td>Senior Machine Learning Engineer</td>
-<td>📍 Hong Kong, Hong Kong SAR</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-fano-fano-labs-4364227338/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>AI/ML Software Engineer</td>
-<td>📍 Dallas, TX</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-lensa-4364347249/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>AWS SME</td>
+<td><a href="https://www.linkedin.com/company/somani-technologies">Somani Technologies</a></td>
+<td>Somani Technologies - Automation Test Engineer - Java/Selenium</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360907504/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-somani-technologies-4365188022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Lead Data Scientist</td>
-<td>📍 Delhi</td>
+<td><a href="https://www.linkedin.com/company/themoderndatacompany">The Modern Data Company</a></td>
+<td>Backend Developer - Python Frameworks</td>
+<td>📍 Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-infosys-4360945636/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-the-modern-data-company-4365174220/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/optimuminfo">Optimum Info</a></td>
+<td>Optimum Info - Quality Assurance Engineer - Manual/Automation Testing</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-optimum-info-4365167640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/element-skill-llp">ElementSkill</a></td>
+<td>AI/ML Architect - LLM Models</td>
+<td>📍 Greater Kolkata Area</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-elementskill-4365179164/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/congregate-technologies">Congregate Technologies</a></td>
+<td>Artificial Intelligence Engineer - LLM/RAG</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-congregate-technologies-4365178160/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/strategic-hr-solutions">Strategic HR Solutions</a></td>
+<td>Azure VMware Solution Architect</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-strategic-hr-solutions-4365176223/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/strategic-hr-solutions">Strategic HR Solutions</a></td>
+<td>Data Engineer/Big Data Engineer - Python</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-strategic-hr-solutions-4365167636/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/applore">Applore Technologies</a></td>
+<td>Applore Technologies - Computer Vision Engineer - OpenCV/Tensorflow</td>
+<td>📍 Ahmedabad, Gujarat, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-applore-technologies-4365172345/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/golden-legand-leasing-and-finance-ltd">Golden Legand Leasing and Finance Ltd.</a></td>
+<td>Interesting Job Opportunity: Artificial Intelligence Engineer - PyTorch/Tensorflow</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-golden-legand-leasing-and-finance-ltd-4365184052/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/frd-studio">FRD Studio</a></td>
+<td>Artificial Intelligence (AI) Internship in Gurgaon (Hybrid)</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-frd-studio-4365176035/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/solace-manpower-consultants">Solace Manpower Consultants</a></td>
+<td>Senior Data Scientist - Machine Learning</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-solace-manpower-consultants-4365184053/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/showcase/framatome-north-america/">Framatome North America</a></td>
+<td>Intern / Co - Op Software/Computer Science Engineer</td>
+<td>📍 Richland, WA</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-framatome-north-america-4365160632/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/webbybutter">WebbyButter Technologies Pvt.Ltd ®</a></td>
+<td>Python & AI Developer Internship in Vadodara</td>
+<td>📍 Vadodara, Gujarat, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-webbybutter-technologies-pvtltd--4365175022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sonoco">Sonoco</a></td>
+<td>AI & Analytics Intern</td>
+<td>📍 Hartsville, SC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-sonoco-4365162797/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oura">ŌURA</a></td>
+<td>Machine Learning Scientist - Summer Intern</td>
+<td>📍 United States</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-ura-4354251918/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/inspironlabsindia">InspironLabs</a></td>
+<td>Python Developer</td>
+<td>📍 Bangalore Urban, Karnataka, India</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-inspironlabs-4365152634/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://de.linkedin.com/company/deutsche-bank">Deutsche Bank</a></td>
+<td>QA Automation Engineer, AVP</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-deutsche-bank-4365168098/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bristol-myers-squibb">Bristol Myers Squibb</a></td>
+<td>Analyst I, Portfolio Analytics</td>
+<td>📍 Hyderabad</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-bristol-myers-squibb-4365166084/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/blackrock">BlackRock</a></td>
+<td>Associate - Python Developer (Finance Platform Strategies)</td>
+<td>📍 Mumbai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-blackrock-4365161320/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
+<td>AI / ML Engineer</td>
+<td>📍 Chennai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/data-scientist-jobs-in-pune-at-accenture-in-india-4354271709/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -788,704 +788,704 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
+<td>Differentbyte Technologies</td>
+<td>Python Developer(Fast API)</td>
+<td>📍 Kochi</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-differentbyte-technologies-220126007838/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-funding-societies-modalku-group-4354156904/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
+<td>📍 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-funding-societies-modalku-group-4354292376/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bayone-solutions">BayOne Solutions</a></td>
+<td>Software Engineer (Network/Python)</td>
 <td>📍 India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-wake-up-whistle-4360888122/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bayone-solutions-4365237147/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Scrum Master</td>
-<td>📍 Cracow, Małopolskie, Poland</td>
+<td><a href="https://ph.linkedin.com/company/risingtideph">Rising Tide Digital Inc</a></td>
+<td>IT Business Analyst</td>
+<td>📍 Taguig, National Capital Region, Philippines</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algoteque-innovation-hub-4364297951/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-rising-tide-digital-inc-4365217685/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Technical Documentation Specialist</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
+<td><a href="https://www.ambitionbox.com/overview/expansion-soft-overview">Expansion Soft</a></td>
+<td>Salesforce Developer Intern</td>
+<td>![Remote](https://img.shields.io/badge/🌍_Remote-green)</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algoteque-innovation-hub-4364641491/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-expansion-soft-210126938267/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/exventurenight">EX Venture Inc.</a></td>
-<td>AI & Automation Internship In Bali</td>
-<td>📍 Denpasar, Bali, Indonesia</td>
+<td><a href="https://de.linkedin.com/company/contentful">Contentful</a></td>
+<td>Analytics Engineer</td>
+<td>📍 Denver, CO</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ex-venture-inc-4360497912/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-contentful-4365219551/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Programista Python</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
+<td><a href="https://www.linkedin.com/company/talentallyatwork">TalentAlly</a></td>
+<td>Business Analyst Associate - August 2026</td>
+<td>📍 McLean, VA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algoteque-innovation-hub-4364217962/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-talentally-4362502801/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/marmatodigital">Marmato Digital</a></td>
-<td>Salesforce Marketing Cloud Consultant</td>
-<td>📍 Coimbatore</td>
+<td><a href="https://www.linkedin.com/company/talentallyatwork">TalentAlly</a></td>
+<td>Business Analyst Intern - Summer 2026</td>
+<td>📍 Plano, TX</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-marmato-digital-4360448102/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-talentally-4362502800/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/nityo-infotech">Nityo Infotech</a></td>
-<td>System Analyst/Business analyst-Banking</td>
-<td>📍 Singapore, Singapore</td>
+<td><a href="https://www.linkedin.com/company/talentallyatwork">TalentAlly</a></td>
+<td>Business Analyst Intern - Summer 2026</td>
+<td>📍 Richmond, VA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-nityo-infotech-4360971214/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-talentally-4362183817/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://my.linkedin.com/company/kpmg-malaysia">KPMG Malaysia</a></td>
-<td>Internship - L&D (Automation Team) (Petaling Jaya)</td>
-<td>📍 Petaling Jaya, Selangor, Malaysia</td>
+<td><a href="https://www.linkedin.com/company/talentallyatwork">TalentAlly</a></td>
+<td>Business Analyst Intern - Summer 2026</td>
+<td>📍 McLean, VA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-kpmg-malaysia-4324260066/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-talentally-4362137174/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://vn.linkedin.com/company/fpt-software">FPT Software</a></td>
-<td>Senior Business Analyst Life Asia</td>
+<td><a href="https://in.linkedin.com/company/hcltech">HCLTech</a></td>
+<td>Business Analyst (Data & Analytics)</td>
+<td>📍 Bangkok, Bangkok City, Thailand</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hcltech-4365235162/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://id.linkedin.com/company/erajayaswasembada">PT. Erajaya Swasembada, Tbk.</a></td>
+<td>Project Management Specialist</td>
 <td>📍 Jakarta, Indonesia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-fpt-software-4360962313/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-pt-erajaya-swasembada-tbk-4365230211/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/british-council">British Council</a></td>
-<td>Executive - Business Process Services, English & Exams</td>
-<td>📍 Noida</td>
+<td><a href="https://www.linkedin.com/company/%E6%B5%99%E6%B1%9F%E8%8A%AF%E6%99%96%E8%A3%85%E5%A4%87%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">浙江芯晖装备技术有限公司</a></td>
+<td>Project Management 项目管理</td>
+<td>📍 Shanghai, Shanghai, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-british-council-4354041095/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--4365213972/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Ingeniero SQL - Trabajo Remoto</td>
-<td>📍 Mexico</td>
+<td><a href="https://www.linkedin.com/company/%E7%A1%95%E8%BD%AF%EF%BC%88%E4%B8%8A%E6%B5%B7%EF%BC%89%E8%BD%AF%E4%BB%B6%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">硕软（上海）软件贸易有限公司</a></td>
+<td>Python Engineer</td>
+<td>📍 Shanghai, Shanghai, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360953686/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--4365219395/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/thermo-fisher-scientific">Thermo Fisher Scientific</a></td>
-<td>Power BI Developer</td>
-<td>📍 Hyderabad</td>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师（Python, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-thermo-fisher-scientific-4354141129/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--4365227080/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
-<td>Program/Project Management Lead</td>
-<td>📍 Navi Mumbai, Maharashtra, India</td>
+<td><a href="https://at.linkedin.com/company/dachverband-der-sozialversicherungstr%C3%A4ger">Dachverband der Sozialversicherungen</a></td>
+<td>Business Analyst:in</td>
+<td>📍 Vienna, Vienna, Austria</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-accenture-in-india-4353991100/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-dachverband-der-sozialversicherungen-4365232028/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/unfold-technologies-private-limited">Unfold Technologies Private Limited</a></td>
-<td>Industrial Automation Engineer</td>
-<td>📍 Bangalore</td>
+<td><a href="https://cn.linkedin.com/company/%E5%8C%97%E4%BA%AC%E4%B8%BB%E7%BA%BF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">主线科技 TRUNK.TECH</a></td>
+<td>（校招）平台软件开发工程师（python）</td>
+<td>📍 Tianjin, Tianjin, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-unfold-technologies-private-limited-4357640593/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--trunktech-4365230012/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://vn.linkedin.com/company/vmogroup">VMO</a></td>
-<td>Python Developer (From 4YoE)</td>
-<td>📍 Hanoi Capital Region</td>
+<td><a href="https://www.linkedin.com/company/vivint">Vivint</a></td>
+<td>Salesforce Developer Intern</td>
+<td>📍 Lehi, UT</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-vmo-4360953631/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-vivint-4355212144/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/dexianindia">Dexian India</a></td>
-<td>Python React Developer</td>
-<td>📍 Singapore, Singapore</td>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师(Python, Go, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-dexian-india-4360962285/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--4365204924/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/skillfiedmentor">SkillFied Mentor</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
+<td><a href="https://www.linkedin.com/company/%E9%BA%A6%E6%A0%BC%E7%BA%B3%E7%94%B5%E5%AD%90-%E8%8B%8F%E5%B7%9E-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">麦格纳电子(苏州)有限公司</a></td>
+<td>Python开发</td>
+<td>📍 Tianjin, Tianjin, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-skillfied-mentor-4364268076/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/simprosys-infomedia-overview">Simprosys Infomedia</a></td>
-<td>Python Intern</td>
-<td>📍 Ahmedabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-simprosys-infomedia-80126500339/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>Business Analyst Intern (Entry Level) | Reporting • Analysis | Remote</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-wake-up-whistle-4360437798/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ph.linkedin.com/company/umpisa">Umpisa Inc</a></td>
-<td>Mid IT Business Analyst (Remote)</td>
-<td>📍 Manila, National Capital Region, Philippines</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-umpisa-inc-4364268103/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore Urban, Karnataka, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360962189/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/a4gcollab">A4G Impact Collaborative</a></td>
-<td>Project Management Intern</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-a4g-impact-collaborative-4357656816/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://nz.linkedin.com/company/new-zealand-ministry-of-justice">Ministry of Justice - New Zealand</a></td>
-<td>Business Analyst</td>
-<td>📍 Wellington, Wellington, New Zealand</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ministry-of-justice-new-zealand-4363622202/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/legacy-restoration-llc">Legacy Restoration</a></td>
-<td>Five9 Admin- Data Analytics</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-legacy-restoration-4364237704/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ibm-4354051344/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Varanasi, Uttar Pradesh, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360971087/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Faridabad, Haryana, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360487714/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/nottinghamshire-county-council">Nottinghamshire County Council</a></td>
-<td>Business Analyst</td>
-<td>📍 Nottinghamshire, England, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-nottinghamshire-county-council-4364207732/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Jaipur, Rajasthan, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360962225/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://jp.linkedin.com/company/fidel-consulting-kk">Fidel Consulting KK</a></td>
-<td>Pythonエンジニア(9960)</td>
-<td>📍 Tokyo, Japan</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-fidel-consulting-kk-4364277905/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://mx.linkedin.com/company/vitro">Vitro</a></td>
-<td>Robotics & Automation Engineer</td>
-<td>📍 Tipton, PA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-vitro-4362454208/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/teamviewer">TeamViewer</a></td>
-<td>Salesforce Sales Cloud Specialist</td>
-<td>📍 Mumbai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-teamviewer-4364327649/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/commonwealthbank">Commonwealth Bank</a></td>
-<td>Advanced Analytics Manager</td>
-<td>📍 Sydney, New South Wales, Australia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-commonwealth-bank-4364217801/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Consultant, Data Analytics Reporting-Food at Cargill</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hackajob-4360398051/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://br.linkedin.com/company/itau">Itaú Unibanco</a></td>
-<td>Analista de RH Pleno (Foco em People Analytics)</td>
-<td>📍 São Paulo, São Paulo, Brazil</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ita-unibanco-4364327653/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Full Stack Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4364307640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Cloud Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4364217751/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>AlgoNext Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4364387587/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://vn.linkedin.com/company/bestarion">Bestarion: Leading Outsourcing Company in Vietnam</a></td>
-<td>Business Analyst</td>
-<td>📍 Ho Chi Minh City, Vietnam</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bestarion-leading-outsourcing-company-in-vietnam-4364307641/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at--4365201825/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
 <td>CloudFlow Automation Developer, India</td>
 <td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4364397494/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4365208730/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/syngene-international-limited">Syngene International Limited</a></td>
-<td>Junior Manager - Project Management</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-syngene-international-limited-4360917706/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360457677/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/genparkai">GenPark</a></td>
-<td>Project Management Intern</td>
-<td>📍 Austin, Texas Metropolitan Area</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-genpark-4360962046/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Indore, Madhya Pradesh, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360971039/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360807759/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://br.linkedin.com/company/unifisa">UNIFISA ADM NACIONAL DE CONSORCIOS LTDA.</a></td>
-<td>Desenvolvedor(a) Python Jr.</td>
-<td>📍 Santana de Parnaíba, São Paulo, Brazil</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-unifisa-adm-nacional-de-consorcios-ltda-4364227728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://fr.linkedin.com/company/notonlygeek">Notonlygeek</a></td>
-<td>Développeur informatique python</td>
-<td>📍 Dijon, Bourgogne-Franche-Comté, France</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-notonlygeek-4364217318/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ph.linkedin.com/company/emaptaglobal">Emapta Global</a></td>
-<td>Business Analyst | Project-Based (3 Months)</td>
-<td>📍 Makati, National Capital Region, Philippines</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-emapta-global-4364207691/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ch.linkedin.com/company/abb">ABB</a></td>
-<td>Automation Engineer</td>
-<td>📍 Thane</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-abb-4364387478/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Manager of Scrum and Project Management</td>
-<td>📍 Elk Grove, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364217129/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Coimbatore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360497703/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/knightecgroup">Knightec Group</a></td>
-<td>Automation Engineer</td>
-<td>📍 Uppsala, Uppsala County, Sweden</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-knightec-group-4364287763/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360807719/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ibm-4354070787/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Business Analyst</td>
-<td>📍 Dublin, OH</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364067438/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Project Management</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360953108/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/mcelhanney">McElhanney</a></td>
-<td>Business Process Optimization Lead</td>
-<td>📍 British Columbia, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-mcelhanney-4364207582/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bairesdev-4360497692/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Warehouse Automation Engineer (remote)</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364217123/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://de.linkedin.com/company/teamviewer">TeamViewer</a></td>
-<td>Salesforce Revenue Cloud Developer</td>
-<td>📍 Mumbai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-teamviewer-4364307501/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/att">AT&T</a></td>
-<td>Senior Specialist-Power BI, cyber data analytics,data visualisation,Cyber Security Operations Metrics Analyst-</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-att-4360953468/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Staff QA Automation Engineer</td>
-<td>📍 San Jose, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364087293/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/free-work-uk">Free-Work UK</a></td>
-<td>Graduate Systems Engineer (Python and SQL)</td>
-<td>📍 Bloxwich, England, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-free-work-uk-4364227381/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/livekitco">LiveKit</a></td>
-<td>Content Engineer, Developer Documentation</td>
-<td>📍 United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-livekit-4364347616/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student - Data Science & Advanced Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-enmax-4360917394/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ch.linkedin.com/company/groupemutuel">Groupe Mutuel</a></td>
-<td>Business Analyst Digital First (h/f) 80-100%</td>
-<td>📍 Lausanne, Vaud, Switzerland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-groupe-mutuel-4364367160/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ch.linkedin.com/company/finnova-ag-bankware">finnova AG Bankware</a></td>
-<td>Business Analyst Kartenverwaltung (all) 80-100%</td>
-<td>📍 Lenzburg, Aargau, Switzerland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-finnova-ag-bankware-4364396808/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/ernstandyoung">EY</a></td>
-<td>Senior Consultant - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ey-4354110900/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/ernstandyoung">EY</a></td>
-<td>Senior Consultant - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ey-4353960841/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/ernstandyoung">EY</a></td>
-<td>Senior Consultant - Business Consulting PI - GOV - CNS - BC - Transformation Delivery - New Delhi</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>AlgoNext Automation Developer, India</td>
 <td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ey-4354060812/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4365214329/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/ernstandyoung">EY</a></td>
-<td>Senior Consultant - Business Consulting PI - TMT - CNS - BC - FINANCE - Bangalore</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Cloud Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ey-4353970817/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4365199808/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/royal-caribbean-group">Royal Caribbean Group</a></td>
-<td>Senior Analyst, Financial Data Analytics & Visualization</td>
-<td>📍 Miami, FL</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Full Stack Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-royal-caribbean-group-4364615975/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-algosec-4365211650/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Cloud Agile Transformation -Manager</td>
-<td>📍 Columbus, OH</td>
+<td><a href="https://br.linkedin.com/company/innolevels">innolevels</a></td>
+<td>Scrum Master  - SP</td>
+<td>📍 Greater São Paulo Area</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364267413/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-innolevels-4365191861/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
-<td>Project Management Job Training Program</td>
-<td>📍 Seattle, WA</td>
+<td><a href="https://br.linkedin.com/company/ibrowse-consultoria-e-inform-tica">Ibrowse Consultoria e Informática</a></td>
+<td>Scrum Master Presencial São Paulo - SP</td>
+<td>📍 Greater São Paulo Area</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-year-up-united-4360917277/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ibrowse-consultoria-e-informtica-4365209239/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student, Asset Performance Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
+<td><a href="https://in.linkedin.com/company/naga-mills-limited">Naga Limited</a></td>
+<td>ICT Business Analyst</td>
+<td>📍 Baden, Ontario, Canada</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-enmax-4360397731/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-naga-limited-4365203179/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Algorithm and Analytics Consultant</td>
-<td>📍 Phoenix, AZ</td>
+<td><a href="https://ca.linkedin.com/company/td">TD</a></td>
+<td>Senior Business Analyst</td>
+<td>📍 Toronto, Ontario, Canada</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364067436/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-td-4365198201/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Manager, Data & Analytics</td>
-<td>📍 St Paul, MN</td>
+<td><a href="https://www.linkedin.com/company/spglobal">S&P Global</a></td>
+<td>Lead Scrum Master</td>
+<td>📍 Ahmedabad, Gujarat, India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364307075/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-sp-global-4362611568/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>2026 Summer Marketing Analytics Internship - Cleveland</td>
-<td>📍 Cleveland, OH</td>
+<td><a href="https://dk.linkedin.com/company/svitzer">Svitzer</a></td>
+<td>Global Business Process Owner - Procure‑to‑Pay (P2P)</td>
+<td>📍 Mumbai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364317358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-svitzer-4362542165/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://dk.linkedin.com/company/svitzer">Svitzer</a></td>
+<td>Global Business Process Owner - Procure‑to‑Pay (P2P)</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-svitzer-4362542166/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://fi.linkedin.com/company/wartsila">Wärtsilä</a></td>
+<td>Software Business Analyst</td>
+<td>📍 Vancouver, British Columbia, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-wrtsil-4365203000/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/kimirica">Kimirica</a></td>
+<td>Business Analyst - Luxury D2C</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-kimirica-4362611596/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/genentech">Genentech</a></td>
+<td>2026 Summer Intern - Product Development Data Sciences and Analytics</td>
+<td>📍 South San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-genentech-4365174879/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ascensionorg">Ascension</a></td>
+<td>Clinical Research Analytics Intern</td>
+<td>📍 United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ascension-4362164736/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bakerhughes">Baker Hughes</a></td>
+<td>Lead Engineer, Customer Order Engineering - Automation & Control</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-baker-hughes-4361348277/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Automation - Selenium Java Python_JL5</td>
+<td>Automation Tester</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360877625/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/wipro">Wipro</a></td>
-<td>AUTOMATION ENGINEER L4</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-wipro-4364641014/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362174013/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Scrum Master Lead Consultant</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360887550/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ventanas-llc">Ventanas LLC</a></td>
-<td>Desarrollador de Power BI</td>
-<td>📍 Zona Doce, Guatemala, Guatemala</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ventanas-llc-4364087653/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Business Process Analyst, P2P</td>
-<td>📍 Charlotte, NC</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364640700/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/relix-hr-consulting-pvt-ltd">RELIX HR Consulting Pvt Ltd - Recruitment Partner for Excellence</a></td>
-<td>Sr Business Analyst  - Banking / BFSI</td>
+<td>S2R_DNA_JAVA/PYTHON/APACHE_Q4_FY26</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-relix-hr-consulting-pvt-ltd-recruitment-partner-for-excellence-4360935871/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362521901/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/best-job-tool">Best Job Tool</a></td>
-<td>Business Analyst</td>
-<td>📍 India</td>
+<td><a href="https://au.linkedin.com/company/qantas">Qantas</a></td>
+<td>Principal Analyst Reporting & Data Analysis</td>
+<td>📍 Sydney, New South Wales, Australia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-best-job-tool-4364640533/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/we-are-jobbit">Jobbit</a></td>
-<td>BACK OFFICE COMMERCIALE - CUSTOMER SERVICE CON EXCEL</td>
-<td>📍 Cremona, Lombardy, Italy</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-jobbit-4364615757/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Automation Design Engineer</td>
-<td>📍 San Diego, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364377074/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/hirenza-pvt-ltd">Hirenza</a></td>
-<td>Business Analyst</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hirenza-4364247138/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director, Product Analytics</td>
-<td>📍 Las Vegas, NV</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364277294/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Business Process Improvement Manager</td>
-<td>📍 Boulder, CO</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364640692/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-qantas-4365193288/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
 <td>Salesforce Senior Developer/Consultant</td>
 <td>📍 Pune</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360447546/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362601508/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/pratt-&-whitney">Pratt & Whitney</a></td>
-<td>F135 Analytics Engineer (Remote)</td>
-<td>📍 East Hartford, CT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-pratt-whitney-4364237456/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/carecone">CareCone Group</a></td>
-<td>Manual Tester - Salesforce/SAP</td>
+<td><a href="https://au.linkedin.com/company/westpac-group">Westpac Group</a></td>
+<td>Business Analyst</td>
 <td>📍 Sydney, New South Wales, Australia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-carecone-group-4364267570/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-westpac-group-4365191310/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Python Automation Network Tester</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360945719/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>MLE/MLOps, OOPs Python, Data Bricks,Azure</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360477497/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Scrum Master Consultant</td>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
 <td>📍 Chennai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4360467507/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-grid-dynamics-4365191159/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Senior Test Engineer-Automation Testing</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-cgi-4365191358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Automation-Senior Test Engineer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-cgi-4365176918/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Senior Business Analyst (CMS)</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362611247/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>IT Project Management</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362502438/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Documentation Specialist-Hybrid Remote Schedule (3 Days On-site/2 Days Remote)</td>
-<td>📍 Boise, ID</td>
+<td>Business Analyst (Hybrid, Schaumburg, IL)</td>
+<td>📍 Schaumburg, IL</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364257253/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4365184489/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://de.linkedin.com/company/nagarro">Nagarro</a></td>
+<td>Associate Staff Consultant (Business Analyst)</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-nagarro-4362512080/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/revfederal">REV Federal Credit Union</a></td>
+<td>Business Analyst</td>
+<td>📍 Summerville, SC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-rev-federal-credit-union-4365178681/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/gsk">GSK</a></td>
+<td>Associate Director, Trial Operations Analytics</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-gsk-4365178271/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-grid-dynamics-4365178696/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Power BI Developer (Mid-Level)</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362521885/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/best-job-tool">Best Job Tool</a></td>
+<td>Business Analyst</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-best-job-tool-4365166905/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cibc">CIBC</a></td>
+<td>GAM Business Analyst, Summer 2026 Co-op</td>
+<td>📍 Toronto, Ontario, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-cibc-4365174706/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Sr. Business Analyst</td>
-<td>📍 Los Angeles, CA</td>
+<td>Scrum Master I</td>
+<td>📍 Westwood, MA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364237271/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4365177541/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/we-are-jobbit">Jobbit</a></td>
-<td>CORSO GRATUITO PACCHETTO OFFICE (EXCEL, WORD, POWERPOINT), INTERNET E POSTA ELETTRONICA.</td>
-<td>📍 Monza, Lombardy, Italy</td>
+<td><a href="https://www.linkedin.com/company/keepsupply">Keep Supply</a></td>
+<td>Salesforce Administrator</td>
+<td>📍 Springfield, MO</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-jobbit-4364377170/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-keep-supply-4365190392/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lockheed-martin">Lockheed Martin</a></td>
+<td>Software Business Analyst</td>
+<td>📍 Cape Canaveral, FL</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lockheed-martin-4365189400/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Associate Salesforce Developer</td>
+<td>📍 Renton, WA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4365182411/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Automation Tester- Cypress Testing Framework</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362109821/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hirenza-pvt-ltd">Hirenza</a></td>
+<td>Business Analyst</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hirenza-4365179230/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>Business Analyst</td>
-<td>📍 Palo Alto, CA</td>
+<td>📍 Rohnert Park, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4364207251/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lensa-4365189373/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python Developer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362183416/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python ML Engineer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-infosys-4362118165/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-year-up-united-4362521705/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Project Management Career Training Program</td>
+<td>📍 Los Angeles, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-year-up-united-4362511827/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Washington, DC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-year-up-united-4362541625/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/eg4-electronics">EG4 Electronics</a></td>
+<td>Engineering Data Analysis Intern</td>
+<td>📍 Dallas, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-eg4-electronics-4354241985/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ae.linkedin.com/company/theoceann">theoceann.ai</a></td>
+<td>theoceann.ai - Senior Full Stack Developer - Python/React.js</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-theoceannai-4365188020/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/ripik-ai">Ripik.AI</a></td>
+<td>Ripik AI - Tech Lead - Java/Python</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ripikai-4365180117/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ingrain-systems-inc">Ingrain Systems Inc</a></td>
+<td>Quality Assurance Automation Engineer - Java/Selenium</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ingrain-systems-inc-4365187025/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/hcl-technologies-overview">HCLTech</a></td>
+<td>Hiring Python & Senior Python Developer - Bangalore Location</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hcltech-220126005282/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/cloudraptor-overview">Cloud Raptor</a></td>
+<td>Python Software Developer</td>
+<td>📍 Mumbai, Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-cloud-raptor-121225022082/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hirenza-pvt-ltd">Hirenza</a></td>
+<td>Python Developer</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hirenza-4365181206/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hyperface">Hyperface</a></td>
+<td>Software Development Engineer - Golang/Java/Python</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hyperface-4365171382/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Senior Sales Analyt Senior Specialist – Sales Performance Reporting & Analytics Specialist</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ntt-data-inc-4355241728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/bridgestone-india-">Bridgestone India</a></td>
+<td>Bridgestone - Salesforce Revenue Cloud Expert</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bridgestone-india-4365185059/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/kansoft">Kansoft</a></td>
+<td>Project Manager - Agile Methodologies</td>
+<td>📍 Udaipur, Tripura, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-kansoft-4365171384/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Principal Specialist – Sales Analytics & Forecasting</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-ntt-data-inc-4354201979/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/niche-search-consultants">Niche-Search Consultants</a></td>
+<td>Technical Delivery Head - Agile Methodologies</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-niche-search-consultants-4365165955/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/sedin-technologies">Sedin Technologies</a></td>
+<td>Sedin Technologies - Data Architect - Python/Spark</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-sedin-technologies-4365166715/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/robosoft-technologies">Robosoft Technologies</a></td>
+<td>Interesting Job Opportunity: Robosoft Technologies - Automation Tester - Appium/Java/Selenium</td>
+<td>📍 Udupi, Karnataka, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-robosoft-technologies-4365167638/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/somani-technologies">Somani Technologies</a></td>
+<td>Somani Technologies - Automation Test Engineer - Java/Selenium</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-somani-technologies-4365188022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/themoderndatacompany">The Modern Data Company</a></td>
+<td>Backend Developer - Python Frameworks</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-the-modern-data-company-4365174220/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hurix-digital">HurixDigital</a></td>
+<td>HurixDigital - Technical Project Manager - Agile Methodologies</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-hurixdigital-4365177183/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/optimuminfo">Optimum Info</a></td>
+<td>Optimum Info - Quality Assurance Engineer - Manual/Automation Testing</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-optimum-info-4365167640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/optum">Optum</a></td>
+<td>Business Analyst</td>
+<td>📍 Noida</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-optum-4365170189/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/strategic-hr-solutions">Strategic HR Solutions</a></td>
+<td>Data Engineer/Big Data Engineer - Python</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-strategic-hr-solutions-4365167636/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/abi-health">ABI Health</a></td>
+<td>ABI Health - Junior Data Analyst - Power BI/PostgreSQL</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-abi-health-4365183081/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>Cvent</td>
+<td>Scrum Master II</td>
+<td>📍 Gurugram</td>
+<td>NaNy ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-cvent-42979826/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/showcase/framatome-north-america/">Framatome North America</a></td>
+<td>Intern / Co - Op Software/Computer Science Engineer</td>
+<td>📍 Richland, WA</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-framatome-north-america-4365160632/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lenovo">Lenovo</a></td>
+<td>Project Management Office Operations Intern - Summer 2026</td>
+<td>📍 North Carolina, United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-lenovo-4362191698/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/webbybutter">WebbyButter Technologies Pvt.Ltd ®</a></td>
+<td>Python & AI Developer Internship in Vadodara</td>
+<td>📍 Vadodara, Gujarat, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-webbybutter-technologies-pvtltd--4365175022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sonoco">Sonoco</a></td>
+<td>AI & Analytics Intern</td>
+<td>📍 Hartsville, SC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-sonoco-4365162797/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/inspironlabsindia">InspironLabs</a></td>
+<td>Python Developer</td>
+<td>📍 Bangalore Urban, Karnataka, India</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-inspironlabs-4365152634/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://de.linkedin.com/company/deutsche-bank">Deutsche Bank</a></td>
+<td>QA Automation Engineer, AVP</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-deutsche-bank-4365168098/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>Wabtec Corporation</td>
+<td>Senior, IT Business Analyst</td>
+<td>📍 Bangalore</td>
+<td>NaNy ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-wabtec-corporation-42979879/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bristol-myers-squibb">Bristol Myers Squibb</a></td>
+<td>Analyst I, Portfolio Analytics</td>
+<td>📍 Hyderabad</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-bristol-myers-squibb-4365166084/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/blackrock">BlackRock</a></td>
+<td>Associate - Python Developer (Finance Platform Strategies)</td>
+<td>📍 Mumbai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-blackrock-4365161320/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/naukripay-group">Naukripay group</a></td>
+<td>Analytical chemistry teacher ( Pune)</td>
+<td>📍 Pune</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/business-analyst-jobs-in-remote-at-naukripay-group-4362109934/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -1510,704 +1510,704 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://cn.linkedin.com/company/tencentglobal">Tencent</a></td>
-<td>[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)</td>
-<td>📍 California, United States</td>
+<td><a href="https://www.linkedin.com/company/bln24">BLN24</a></td>
+<td>Learning Management System Administrator</td>
+<td>📍 McLean, VA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-tencent-4321993415/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-bln24-4365229349/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-wake-up-whistle-4360888122/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Scrum Master</td>
-<td>📍 Cracow, Małopolskie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algoteque-innovation-hub-4364297951/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/exventurenight">EX Venture Inc.</a></td>
-<td>AI & Automation Internship In Bali</td>
-<td>📍 Denpasar, Bali, Indonesia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ex-venture-inc-4360497912/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://my.linkedin.com/company/kpmg-malaysia">KPMG Malaysia</a></td>
-<td>Internship - L&D (Automation Team) (Petaling Jaya)</td>
-<td>📍 Petaling Jaya, Selangor, Malaysia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-kpmg-malaysia-4324260066/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/stryker">Stryker</a></td>
-<td>Product Support Specialist Manual and Robotic</td>
-<td>📍 Broxburn, Scotland, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-stryker-4360946182/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/stryker">Stryker</a></td>
-<td>Product Support Specialist Manual and Robotic</td>
-<td>📍 Scotland, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-stryker-4360962295/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Ingeniero SQL - Trabajo Remoto</td>
-<td>📍 Mexico</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-bairesdev-4360953686/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
-<td>Program/Project Management Lead</td>
-<td>📍 Navi Mumbai, Maharashtra, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-accenture-in-india-4353991100/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/tcs-overview">Tata Consultancy Services</a></td>
-<td>Oracle Fusion Product Hub Techno-functional</td>
-<td>📍 Bangalore, Mumbai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-tata-consultancy-services-80126015328/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/unfold-technologies-private-limited">Unfold Technologies Private Limited</a></td>
-<td>Industrial Automation Engineer</td>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-unfold-technologies-private-limited-4357640593/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-funding-societies-modalku-group-4354156904/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://be.linkedin.com/company/syensqo">Syensqo</a></td>
-<td>SAP Warehousing Management & Labels Expert</td>
-<td>📍 Pune</td>
+<td><a href="https://sg.linkedin.com/company/funding-societies-modalku">Funding Societies | Modalku Group</a></td>
+<td>Data Analytics Intern</td>
+<td>📍 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-syensqo-4364257904/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-funding-societies-modalku-group-4354292376/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/wipro">Wipro</a></td>
-<td>PRODUCT ENGINEER L3</td>
-<td>📍 Pune</td>
+<td><a href="https://au.linkedin.com/company/ansell">Ansell</a></td>
+<td>Sr Manager, IT Process & Technology (D365 - Enterprise Asset Management)</td>
+<td>📍 Mumbai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-wipro-4364616363/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ansell-4365216843/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/strive-globalevents">Strive Global Events</a></td>
-<td>Management Trainee</td>
-<td>📍 Nashville, TN</td>
+<td><a href="https://www.linkedin.com/company/vyncacare">Vynca</a></td>
+<td>Jr. Product Manager</td>
+<td>📍 San Mateo, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-strive-global-events-4354131023/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-vynca-4365219578/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/skillfiedmentor">SkillFied Mentor</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
+<td><a href="https://www.linkedin.com/company/cherubic-ventures-us">Cherubic Ventures-US</a></td>
+<td>Chief Product Officer</td>
+<td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-skillfied-mentor-4364268076/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cherubic-ventures-us-4365215867/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/a4gcollab">A4G Impact Collaborative</a></td>
-<td>Project Management Intern</td>
-<td>📍 India</td>
+<td><a href="https://de.linkedin.com/company/contentful">Contentful</a></td>
+<td>Analytics Engineer</td>
+<td>📍 Denver, CO</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-a4g-impact-collaborative-4357656816/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-contentful-4365219551/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/company/rbc">RBC</a></td>
-<td>Senior Product Manager, Ownr</td>
-<td>📍 Toronto, Ontario, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-rbc-4364267969/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/johnson-controls">Johnson Controls</a></td>
-<td>Principal Product Security Engineer</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-johnson-controls-4354011011/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/legacy-restoration-llc">Legacy Restoration</a></td>
-<td>Five9 Admin- Data Analytics</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-legacy-restoration-4364237704/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/prelimsolutions">Prelim</a></td>
-<td>Product Designer</td>
-<td>📍 Greater Syracuse-Auburn Area</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-prelim-4364257876/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://be.linkedin.com/company/jobgether">Jobgether</a></td>
-<td>IT Asset Management Manager - REMOTE</td>
-<td>📍 Arizona, United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-jobgether-4364641066/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://be.linkedin.com/company/jobgether">Jobgether</a></td>
-<td>Lead Manager, IT Asset Management - remote</td>
-<td>📍 Illinois, United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-jobgether-4364317637/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ibm-4354051344/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/cresa">Cresa</a></td>
-<td>Analyst, Transaction Management</td>
-<td>📍 Austin, TX</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cresa-4364616298/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/dun-&-bradstreet">Dun & Bradstreet</a></td>
-<td>Business Development and Account Management (R-18777)</td>
-<td>📍 Hong Kong SAR</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-dun-bradstreet-4364347789/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://mx.linkedin.com/company/vitro">Vitro</a></td>
-<td>Robotics & Automation Engineer</td>
-<td>📍 Tipton, PA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-vitro-4362454208/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/commonwealthbank">Commonwealth Bank</a></td>
-<td>Advanced Analytics Manager</td>
-<td>📍 Sydney, New South Wales, Australia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-commonwealth-bank-4364217801/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://th.linkedin.com/company/lge-thailand">LG Electronics Thailand</a></td>
-<td>Category Management (Product Management)</td>
+<td><a href="https://in.linkedin.com/company/hcltech">HCLTech</a></td>
+<td>Business Analyst (Data & Analytics)</td>
 <td>📍 Bangkok, Bangkok City, Thailand</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lg-electronics-thailand-4360970835/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-hcltech-4365235162/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Consultant, Data Analytics Reporting-Food at Cargill</td>
+<td><a href="https://id.linkedin.com/company/erajayaswasembada">PT. Erajaya Swasembada, Tbk.</a></td>
+<td>Project Management Specialist</td>
+<td>📍 Jakarta, Indonesia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-pt-erajaya-swasembada-tbk-4365230211/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E6%B5%99%E6%B1%9F%E8%8A%AF%E6%99%96%E8%A3%85%E5%A4%87%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">浙江芯晖装备技术有限公司</a></td>
+<td>线上会议活动管理Event Management</td>
+<td>📍 Shanghai, Shanghai, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at--4365230205/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E6%B5%99%E6%B1%9F%E8%8A%AF%E6%99%96%E8%A3%85%E5%A4%87%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">浙江芯晖装备技术有限公司</a></td>
+<td>运营审批专员Operation Management Associate</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at--4365222302/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/t-mobile">T-Mobile</a></td>
+<td>Summer 2026 Product Management Internship</td>
+<td>📍 Bellevue, WA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-t-mobile-4365193579/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E6%B5%99%E6%B1%9F%E8%8A%AF%E6%99%96%E8%A3%85%E5%A4%87%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">浙江芯晖装备技术有限公司</a></td>
+<td>Project Management 项目管理</td>
+<td>📍 Shanghai, Shanghai, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at--4365213972/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://cn.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%88%B1%E7%A7%91%E8%BF%AA%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京爱科迪通信技术股份有限公司</a></td>
+<td>Test Vehicle Management测试车辆管理</td>
+<td>📍 Hefei, Anhui, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at--4365230162/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ch.linkedin.com/company/abb">ABB</a></td>
+<td>Buyer - Supply Chain Management</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-hackajob-4360398051/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-abb-4361192958/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://br.linkedin.com/company/itau">Itaú Unibanco</a></td>
-<td>Analista de RH Pleno (Foco em People Analytics)</td>
-<td>📍 São Paulo, São Paulo, Brazil</td>
+<td><a href="https://cn.linkedin.com/company/w%C3%BCrth-china">Würth China</a></td>
+<td>Management Trainee</td>
+<td>📍 Shanghai, Shanghai, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ita-unibanco-4364327653/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-wrth-china-4365228036/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/school/uottawa/">University of Ottawa</a></td>
-<td>Associate Supervisor,  Academic Program Management</td>
-<td>📍 Ottawa, Ontario, Canada</td>
+<td><a href="https://www.linkedin.com/company/elevarebranding">Elevare Branding</a></td>
+<td>Management Trainee</td>
+<td>📍 Fayetteville, NC</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-university-of-ottawa-4364291016/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-elevare-branding-4355290467/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Full Stack Automation Developer, India</td>
-<td>📍 Delhi</td>
+<td><a href="https://www.linkedin.com/company/beloform-craft">BeloForm Craft</a></td>
+<td>Management Trainee</td>
+<td>📍 Cincinnati, OH</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4364307640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-beloform-craft-4354232300/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Cloud Automation Developer, India</td>
-<td>📍 Delhi</td>
+<td><a href="https://www.linkedin.com/company/%E9%80%9A%E5%BF%AB-%E4%B8%AD%E5%9B%BD-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">通快(中国)有限公司</a></td>
+<td>Supplier Quality Management Engineer</td>
+<td>📍 Suzhou, Jiangsu, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4364217751/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://fr.linkedin.com/company/vinci-energies">VINCI Energies</a></td>
-<td>Inhouse Consultant SAP FI (m/w/d) mit Fokus auf Supplier Invoice Management</td>
-<td>📍 Frankfurt am Main, Hesse, Germany</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-vinci-energies-4364237789/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>AlgoNext Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4364387587/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/lundin-mining-corporation">Lundin Mining Corporation</a></td>
-<td>Global Practice Lead, Enterprise Risk Management</td>
-<td>📍 Santiago, Santiago Metropolitan Region, Chile</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lundin-mining-corporation-4364616032/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at--4365220087/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
 <td>CloudFlow Automation Developer, India</td>
 <td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4364397494/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4365208730/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/pratt-&-whitney">Pratt & Whitney</a></td>
-<td>Quality Analyst – Escape Management Specialist</td>
-<td>📍 Halifax, Nova Scotia, Canada</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>AlgoNext Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-pratt-whitney-4364307218/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4365214329/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/syngene-international-limited">Syngene International Limited</a></td>
-<td>Junior Manager - Project Management</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Cloud Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-syngene-international-limited-4360917706/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4365199808/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://fr.linkedin.com/company/rothschildandco">Rothschild & Co</a></td>
-<td>Client Team Analyst, Wealth Management</td>
-<td>📍 London, England, United Kingdom</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Full Stack Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-rothschild-co-4364217390/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-algosec-4365211650/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/apollo-bgs-hospitals">Apollo BGS Hospitals</a></td>
-<td>General Manager – General Management</td>
+<td><a href="https://br.linkedin.com/company/innolevels">innolevels</a></td>
+<td>Scrum Master  - SP</td>
+<td>📍 Greater São Paulo Area</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-innolevels-4365191861/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://br.linkedin.com/company/ibrowse-consultoria-e-inform-tica">Ibrowse Consultoria e Informática</a></td>
+<td>Scrum Master Presencial São Paulo - SP</td>
+<td>📍 Greater São Paulo Area</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ibrowse-consultoria-e-informtica-4365209239/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/voloridge-investment-management">Voloridge Investment Management, LLC</a></td>
+<td>Health Product Management Intern 2026</td>
+<td>📍 Jupiter, FL</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-voloridge-investment-management-llc-4362146441/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/spglobal">S&P Global</a></td>
+<td>Lead Scrum Master</td>
+<td>📍 Ahmedabad, Gujarat, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sp-global-4362611568/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ie.linkedin.com/company/foodhubuk">Foodhub</a></td>
+<td>task management associate</td>
 <td>📍 Chennai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-apollo-bgs-hospitals-4360817819/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-foodhub-4362192767/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/genparkai">GenPark</a></td>
-<td>Project Management Intern</td>
-<td>📍 Austin, Texas Metropolitan Area</td>
+<td><a href="https://ch.linkedin.com/company/iss-schweiz-ag">ISS Schweiz AG</a></td>
+<td>Global Management Trainee Programme (m/w)</td>
+<td>📍 Zurich, Zurich, Switzerland</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-genpark-4360962046/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-iss-schweiz-ag-4362522167/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://jp.linkedin.com/company/nomura">Nomura</a></td>
-<td>Analyst, Senior Relationship Management</td>
-<td>📍 Hong Kong, Hong Kong SAR</td>
+<td><a href="https://www.linkedin.com/company/sas">SAS</a></td>
+<td>CareerStart@SAS 2026 - Customer Facing Intern – AI, Data Science & Risk Management</td>
+<td>📍 Marlow, England, United Kingdom</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-nomura-4364377631/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sas-4334680246/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/cummins-india">Cummins India</a></td>
-<td>Administrative Associate - Level IV - General Management</td>
-<td>📍 Pune</td>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Product Manager Intern 2026</td>
+<td>📍 Austin, TX</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cummins-india-4360467865/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4365185424/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Staff Software Engineer, Backend Product</td>
+<td><a href="https://ch.linkedin.com/company/world-health-organization">World Health Organization</a></td>
+<td>SSA - HIV/SRH/BBV Warehouse Management Officer</td>
+<td>📍 Suva, Central, Fiji</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-world-health-organization-4365189678/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ch.linkedin.com/company/iss-schweiz-ag">ISS Schweiz AG</a></td>
+<td>Global Management Trainee Programme (m/w)</td>
+<td>📍 Basel, Basel, Switzerland</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-iss-schweiz-ag-4362611567/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://au.linkedin.com/company/people-equity">People Equity</a></td>
+<td>Senior Product Manager</td>
+<td>📍 Mount Waverley, Victoria, Australia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-people-equity-4365197112/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ch.linkedin.com/company/iss-schweiz-ag">ISS Schweiz AG</a></td>
+<td>Global Management Trainee Programme (m/w)</td>
+<td>📍 Renens, Vaud, Switzerland</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-iss-schweiz-ag-4362192692/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>Product Management MBA Intern (Summer 2026)</td>
 <td>📍 San Francisco, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-unify-4364641084/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sigma-4365013839/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ch.linkedin.com/company/abb">ABB</a></td>
-<td>Automation Engineer</td>
-<td>📍 Thane</td>
+<td><a href="https://www.linkedin.com/company/genentech">Genentech</a></td>
+<td>2026 Summer Intern - Product Development Data Sciences and Analytics</td>
+<td>📍 South San Francisco, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-abb-4364387478/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-genentech-4365174879/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Staff Software Engineer I - Internal Access Management</td>
-<td>📍 Denver, CO</td>
+<td><a href="https://www.linkedin.com/company/ascensionorg">Ascension</a></td>
+<td>Clinical Research Analytics Intern</td>
+<td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364377133/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ascension-4362164736/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Manager of Scrum and Project Management</td>
-<td>📍 Elk Grove, CA</td>
+<td><a href="https://www.linkedin.com/company/truelogicsoftware">Truelogic Software</a></td>
+<td>Senior Product Manager - Technology</td>
+<td>📍 Colombia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364217129/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-truelogic-software-4365192426/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>VP, Product Management (AI)</td>
-<td>📍 St Paul, MN</td>
+<td><a href="https://www.linkedin.com/company/bakerhughes">Baker Hughes</a></td>
+<td>Lead Engineer, Customer Order Engineering - Automation & Control</td>
+<td>📍 Hyderabad</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364377117/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-baker-hughes-4361348277/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/knightecgroup">Knightec Group</a></td>
-<td>Automation Engineer</td>
-<td>📍 Uppsala, Uppsala County, Sweden</td>
+<td><a href="https://www.linkedin.com/company/galaxyhq">Galaxy</a></td>
+<td>Product Manager (Trading) - GalaxyOne</td>
+<td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-knightec-group-4364287763/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ibm">IBM</a></td>
-<td>Quality Engineer-Automation</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ibm-4354070787/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-galaxy-4365194223/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
-<td>Project Management</td>
+<td>Automation Tester</td>
 <td>📍 Bangalore</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-infosys-4360953108/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-infosys-4362174013/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/kuraray-america-inc">Kuraray America, Inc.</a></td>
-<td>Product Manager</td>
-<td>📍 Houston, TX</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-kuraray-america-inc-4364387468/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Warehouse Automation Engineer (remote)</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364217123/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director Program Management</td>
-<td>📍 Austin, TX</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364327196/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/senjaio">Senja</a></td>
-<td>Full-Stack Product Engineer</td>
-<td>📍 Portugal</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-senja-4360970916/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director, Product Management</td>
-<td>📍 Honolulu, HI</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364386974/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/att">AT&T</a></td>
-<td>Senior Specialist-Power BI, cyber data analytics,data visualisation,Cyber Security Operations Metrics Analyst-</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-att-4360953468/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Staff Software Engineer, Backend Product</td>
-<td>📍 New York, NY</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-unify-4364397299/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Staff QA Automation Engineer</td>
-<td>📍 San Jose, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364087293/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Senior Software Engineer, Backend Product</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-unify-4364377470/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/free-work-uk">Free-Work UK</a></td>
-<td>Graduate Systems Engineer (Python and SQL)</td>
-<td>📍 Bloxwich, England, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-free-work-uk-4364227381/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/heidi">Heidi</a></td>
-<td>Product Manager / Senior Product Manager</td>
-<td>📍 Greater Sydney Area</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-heidi-4364267797/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://sg.linkedin.com/company/envirodynamics-solutions-pte-ltd">EnviroDynamics Solutions Pte Ltd</a></td>
-<td>AI Product Manager (B2C) - Apps/Software</td>
-<td>📍 Singapore, Singapore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-envirodynamics-solutions-pte-ltd-4364067694/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://my.linkedin.com/company/syarikat-takaful-malaysia-berhad">Takaful Malaysia</a></td>
-<td>Deputy Manager, Product Development (Non Banca)</td>
-<td>📍 WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-takaful-malaysia-4364247877/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>VP, Product Management (AI)</td>
-<td>📍 Boston, MA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364327258/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Senior Software Engineer, Backend Product</td>
-<td>📍 New York, NY</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-unify-4364327603/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/kandhuguleconsultancyservicespvtltd">Kandhugule Consultancy Services Pvt Ltd</a></td>
-<td>Product Development Specialist</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-kandhugule-consultancy-services-pvt-ltd-4360397947/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/sportech-inc-">Sportech</a></td>
-<td>Summer Internship - New Product Development</td>
-<td>📍 Elk River, MN</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sportech-4360487450/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/click-bond">Click Bond</a></td>
-<td>Change Management Specialist</td>
-<td>📍 Carson City, NV</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-click-bond-4364247850/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student - Data Science & Advanced Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-enmax-4360917394/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Manager, Customer Relationship Management</td>
-<td>📍 Rockville, MD</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364317347/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://mx.linkedin.com/company/skydropxlatam">Skydropx LATAM</a></td>
-<td>Junior Product Designer</td>
-<td>📍 Argentina</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-skydropx-latam-4364317646/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://be.linkedin.com/company/jobgether">Jobgether</a></td>
-<td>IT Asset Management Lead (Remote)</td>
-<td>📍 Georgia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-jobgether-4364367475/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://be.linkedin.com/company/jobgether">Jobgether</a></td>
-<td>Manager of IT Asset Management (Remote)</td>
-<td>📍 California, United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-jobgether-4364267758/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://be.linkedin.com/company/jobgether">Jobgether</a></td>
-<td>Remote IT Asset Management Expert</td>
-<td>📍 Tennessee, United States</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-jobgether-4364227585/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
-<td>Data Management Job Training Opportunity</td>
-<td>📍 Seattle, WA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-year-up-united-4360497239/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/tangspac-international">Tangspac International</a></td>
-<td>ITSM Release Management Analyst</td>
-<td>📍 Singapore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-tangspac-international-4364247821/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/royal-caribbean-group">Royal Caribbean Group</a></td>
-<td>Senior Analyst, Financial Data Analytics & Visualization</td>
-<td>📍 Miami, FL</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-royal-caribbean-group-4364615975/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Cloud Agile Transformation -Manager</td>
-<td>📍 Columbus, OH</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364267413/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
-<td>Project Management Job Training Program</td>
-<td>📍 Seattle, WA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-year-up-united-4360917277/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/heidi">Heidi</a></td>
-<td>Product Manager / Senior Product Manager</td>
-<td>📍 Sydney, New South Wales, Australia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-heidi-4364641055/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://jp.linkedin.com/company/lixil-global">LIXIL</a></td>
-<td>Technical Product Designer</td>
-<td>📍 Gurugram</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lixil-4364367345/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Principal, IT Product Management</td>
-<td>📍 St Paul, MN</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364640741/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/american-foods-group">American Foods Group</a></td>
-<td>Operations Management Trainee</td>
-<td>📍 Long Prairie, MN</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-american-foods-group-4353980743/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/enmax">ENMAX</a></td>
-<td>Summer Student, Asset Performance Analytics</td>
-<td>📍 Calgary, Alberta, Canada</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-enmax-4360397731/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td>Siemens Healthineers</td>
-<td>Product Specialist - Customer Support</td>
-<td>📍 Mumbai</td>
-<td>NaNy ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-siemens-healthineers-42813931/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Algorithm and Analytics Consultant</td>
-<td>📍 Phoenix, AZ</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364067436/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Asset Management Intern</td>
-<td>📍 Milwaukee, WI</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364247484/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Onboarding Product Manager</td>
-<td>📍 Westwood, MA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364367066/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Senior Product Manager - Financial Engineering</td>
-<td>📍 Boise, ID</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364307016/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://sg.linkedin.com/company/empowerpartnerssg">Empower Partners Singapore</a></td>
-<td>Client Support – Portfolio Management (Greater China)</td>
-<td>📍 Singapore, Singapore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-empower-partners-singapore-4364237149/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://au.linkedin.com/company/heidi">Heidi</a></td>
-<td>Product Manager / Senior Product Manager</td>
-<td>📍 Melbourne, Victoria, Australia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-heidi-4364387358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Manager, Data & Analytics</td>
-<td>📍 St Paul, MN</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364307075/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/selfridges">Selfridges</a></td>
-<td>Regulatory Advisor - Product Compliance (London)</td>
-<td>📍 London, England, United Kingdom</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-selfridges-4364287456/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Director, Development Product Owner</td>
-<td>📍 Plano, TX</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364247375/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>2026 Summer Marketing Analytics Internship - Cleveland</td>
-<td>📍 Cleveland, OH</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364317358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Group Product Manager, Health Access and Equity</td>
-<td>📍 Irvine, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364087426/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Property Management Coordinator</td>
-<td>📍 Cambridge, MA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364277263/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Lead Project Scheduler 2 - Construction Management</td>
+<td><a href="https://uk.linkedin.com/company/trx-international">TRX</a></td>
+<td>Junior Product Manager</td>
 <td>📍 United States</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4364377045/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-trx-4365191417/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://au.linkedin.com/company/qantas">Qantas</a></td>
+<td>Principal Analyst Reporting & Data Analysis</td>
+<td>📍 Sydney, New South Wales, Australia</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-qantas-4365193288/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Senior Test Engineer-Automation Testing</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cgi-4365191358/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Automation-Senior Test Engineer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cgi-4365176918/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>IT Project Management</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-infosys-4362502438/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Technical Product Analyst</td>
+<td>📍 Vienna, VA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4365184462/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/gsk">GSK</a></td>
+<td>Associate Director, Trial Operations Analytics</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-gsk-4365178271/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cibc">CIBC</a></td>
+<td>Global Asset Management Analyst, Summer 2026 Co-op</td>
+<td>📍 Toronto, Ontario, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cibc-4365189416/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Scrum Master I</td>
+<td>📍 Westwood, MA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4365177541/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/knowledgecenterho">Knowledge Center</a></td>
+<td>Product Manager</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-knowledge-center-4362164391/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Clinical Product Development Specialist</td>
+<td>📍 United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4365191000/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Automation Tester- Cypress Testing Framework</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-infosys-4362109821/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/mini-mall-storage-properties">Mini Mall Storage Properties</a></td>
+<td>Analyst, Asset Management (Remote)</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-mini-mall-storage-properties-4365188535/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cibc">CIBC</a></td>
+<td>Product Development & Strategy Analyst, Summer 2026 Co-op</td>
+<td>📍 Toronto, Ontario, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cibc-4365182557/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/mini-mall-storage-properties">Mini Mall Storage Properties</a></td>
+<td>Analyst, Asset Management (Remote)</td>
+<td>📍 Toronto, Ontario, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-mini-mall-storage-properties-4365175675/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-year-up-united-4362521705/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Product Development Intern</td>
+<td>📍 Atlanta, GA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lensa-4365181590/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Project Management Career Training Program</td>
+<td>📍 Los Angeles, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-year-up-united-4362511827/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/year-up-united/">Year Up United</a></td>
+<td>Data Analytics Job Training Program</td>
+<td>📍 Washington, DC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-year-up-united-4362541625/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/eg4-electronics">EG4 Electronics</a></td>
+<td>Engineering Data Analysis Intern</td>
+<td>📍 Dallas, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-eg4-electronics-4354241985/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ingrain-systems-inc">Ingrain Systems Inc</a></td>
+<td>Quality Assurance Automation Engineer - Java/Selenium</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ingrain-systems-inc-4365187025/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Senior Sales Analyt Senior Specialist – Sales Performance Reporting & Analytics Specialist</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ntt-data-inc-4355241728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/bharat-industry-corp">Bharat Industrial Corporation</a></td>
+<td>E-Commerce Business Management Internship in Bangalore</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-bharat-industrial-corporation-4365176033/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/kansoft">Kansoft</a></td>
+<td>Project Manager - Agile Methodologies</td>
+<td>📍 Udaipur, Tripura, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-kansoft-4365171384/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Bid Management / Research factory</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ntt-data-inc-4354172010/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Principal Specialist – Sales Analytics & Forecasting</td>
+<td>📍 Gurugram</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ntt-data-inc-4354201979/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/capital-one">Capital One</a></td>
+<td>Director - Product Management</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-capital-one-4365151812/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/pereyan-llp">Pereyan LLP</a></td>
+<td>Product Media Specialist in Anekal, Bangalore</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-pereyan-llp-4365172182/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/niche-search-consultants">Niche-Search Consultants</a></td>
+<td>Technical Delivery Head - Agile Methodologies</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-niche-search-consultants-4365165955/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://jp.linkedin.com/company/ntt-data-inc">NTT DATA, Inc.</a></td>
+<td>Senior Principal Product Marketing Specialist</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-ntt-data-inc-4355251722/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/robosoft-technologies">Robosoft Technologies</a></td>
+<td>Interesting Job Opportunity: Robosoft Technologies - Automation Tester - Appium/Java/Selenium</td>
+<td>📍 Udupi, Karnataka, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-robosoft-technologies-4365167638/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/somani-technologies">Somani Technologies</a></td>
+<td>Somani Technologies - Automation Test Engineer - Java/Selenium</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-somani-technologies-4365188022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hurix-digital">HurixDigital</a></td>
+<td>HurixDigital - Technical Project Manager - Agile Methodologies</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-hurixdigital-4365177183/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/optimuminfo">Optimum Info</a></td>
+<td>Optimum Info - Quality Assurance Engineer - Manual/Automation Testing</td>
+<td>📍 Noida</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-optimum-info-4365167640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/sedin-technologies">Sedin Technologies</a></td>
+<td>SaaS Product Head</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sedin-technologies-4365178159/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/taxmann">Taxmann</a></td>
+<td>Taxmann - Product Manager  Delivery Management</td>
+<td>📍 Delhi</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-taxmann-4365173239/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>Cvent</td>
+<td>Scrum Master II</td>
+<td>📍 Gurugram</td>
+<td>NaNy ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-cvent-42979826/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/situsamc">SitusAMC</a></td>
+<td>Asset Management Intern- New York</td>
+<td>📍 New York, NY</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-situsamc-4354201925/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/prometheus-real-estate-group">Prometheus Real Estate Group</a></td>
+<td>Prometheus Summer Internship - Asset Management</td>
+<td>📍 San Mateo, CA</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-prometheus-real-estate-group-4344570461/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/showcase/framatome-north-america/">Framatome North America</a></td>
+<td>Intern / Co - Op Software/Computer Science Engineer</td>
+<td>📍 Richland, WA</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-framatome-north-america-4365160632/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lenovo">Lenovo</a></td>
+<td>Project Management Office Operations Intern - Summer 2026</td>
+<td>📍 North Carolina, United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-lenovo-4362191698/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sonoco">Sonoco</a></td>
+<td>AI & Analytics Intern</td>
+<td>📍 Hartsville, SC</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-sonoco-4365162797/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/goodera">Goodera</a></td>
+<td>Event Management Internship in Bangalore</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-goodera-4365152980/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nirvana-consulting-company">Nirvana Consulting Company</a></td>
+<td>AI Product Builder Internship</td>
+<td>📍 Chicago, IL</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-nirvana-consulting-company-4362580257/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://de.linkedin.com/company/deutsche-bank">Deutsche Bank</a></td>
+<td>QA Automation Engineer, AVP</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-deutsche-bank-4365168098/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/johnson-&-johnson">Johnson & Johnson</a></td>
+<td>Manager, Technical Product Owner</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-johnson-johnson-4365161440/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bristol-myers-squibb">Bristol Myers Squibb</a></td>
+<td>Analyst I, Portfolio Analytics</td>
+<td>📍 Hyderabad</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-bristol-myers-squibb-4365166084/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/johnson-&-johnson">Johnson & Johnson</a></td>
+<td>Manager, Technical Product Owner</td>
+<td>📍 Mumbai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-johnson-johnson-4365146888/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/naukripay-group">Naukripay group</a></td>
+<td>Analytical chemistry teacher ( Pune)</td>
+<td>📍 Pune</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-naukripay-group-4362109934/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/energy-job-search">Energy Job Search</a></td>
+<td>Intern Project Management (all genders)</td>
+<td>📍 Munich, Bavaria, Germany</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-energy-job-search-4362126052/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Consulting Technical Manager - Java/ PL/SQL</td>
+<td>📍 Noida</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-oracle-4354191702/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Associate Consultant - Java/ PL/SQL</td>
+<td>📍 Hyderabad</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-oracle-4354251707/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/mastercard">Mastercard</a></td>
+<td>Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics</td>
+<td>📍 Gurugram</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-mastercard-4354271592/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
+<td>Test Automation Lead</td>
+<td>📍 Bangalore</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-accenture-in-india-4354171880/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Associate Consultant - Java/ PL/SQL</td>
+<td>📍 Chennai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-oracle-4355201567/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Senior Consultant - Java/ PL/SQL</td>
+<td>📍 Chennai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-oracle-4355280866/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>Imaging Endpoints</td>
+<td>Product Manager (Imaging Platform)</td>
+<td>📍 Hyderabad</td>
+<td>NaNy ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-imaging-endpoints-42973090/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Consulting Technical Manager - Java/ PL/SQL</td>
+<td>📍 Chennai</td>
+<td>2d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/product-manager-jobs-in-gurugram-at-oracle-4354291565/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -2232,704 +2232,704 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
+<td>Differentbyte Technologies</td>
+<td>Python Developer(Fast API)</td>
+<td>📍 Kochi</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-differentbyte-technologies-220126007838/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/ramit-solutions-overview">ramitsolutions.in</a></td>
+<td>Software developer fresher/experienced</td>
+<td>📍 Delhi, Hyderabad, Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-ramitsolutionsin-220126007782/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/tcs-overview">Tata Consultancy Services</a></td>
+<td>Java Developer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-tata-consultancy-services-220126007766/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.ambitionbox.com/overview/wissen-technology-overview">Wissen Technology</a></td>
+<td>Software Developer</td>
+<td>📍 Mumbai, Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-wissen-technology-220126007765/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/mpccloudconsulting">MPC Cloud Consulting Pvt Ltd</a></td>
+<td>Junior Software Engineer</td>
 <td>📍 India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-wake-up-whistle-4360888122/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Senior Software Developer (Java)</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algoteque-innovation-hub-4364348016/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>FullStack .NET & Angular Developer</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algoteque-innovation-hub-4364068130/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Senior Software Developer (Java)</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algoteque-innovation-hub-4364633240/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://pl.linkedin.com/company/algoteque">ALGOTEQUE Innovation Hub</a></td>
-<td>Programista Python</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algoteque-innovation-hub-4364217962/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://sg.linkedin.com/company/ant-international">Ant International</a></td>
-<td>Java Back-End Engineer Intern</td>
-<td>📍 Federal Territory of Kuala Lumpur, Malaysia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-ant-international-4360448117/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ph.linkedin.com/company/sgv--co">SGV & Co.</a></td>
-<td>Associate Full Stack Developer</td>
-<td>📍 Makati, National Capital Region, Philippines</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sgv-co-4360953716/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://nz.linkedin.com/company/auckland-transport">Auckland Transport</a></td>
-<td>Computer Vision Engineer - Full Stack</td>
-<td>📍 Auckland, New Zealand</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-auckland-transport-4364328004/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/jobs-via-dice">Jobs via Dice</a></td>
-<td>Software Developer</td>
-<td>📍 Pontiac, MI</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-jobs-via-dice-4360970648/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/peopleprimeww">People Prime Worldwide</a></td>
-<td>Java Full stack</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-people-prime-worldwide-4360962312/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Ingeniero SQL - Trabajo Remoto</td>
-<td>📍 Mexico</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360953686/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Kalyan, Maharashtra, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360907992/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/tesla-motors">Tesla</a></td>
-<td>Software Engineering Working Student (m/f/d) - Gigafactory Berlin-Brandenburg</td>
-<td>📍 Grünheide, Brandenburg, Germany</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-tesla-4364227924/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/mirabilis-design-overview">Mirabilis Design Incorporation</a></td>
-<td>Software Testing Engineer</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-mirabilis-design-incorporation-190126502886/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360837817/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/welcometossm">WelcometoSSM</a></td>
-<td>Software Engineering Level 2</td>
-<td>📍 Ontario, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-welcometossm-4364377786/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Hyderabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360857853/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/northrop-grumman-corporation">Northrop Grumman</a></td>
-<td>2026 Associate Software Engineer / 2026 Software Engineer - Roy UT - R10219710</td>
-<td>📍 Roy, UT</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-northrop-grumman-4364616357/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/tech-mahindra-overview">Tech Mahindra</a></td>
-<td>Angular Developer</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-tech-mahindra-200126006219/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Coimbatore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360477960/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-mpc-cloud-consulting-pvt-ltd-4361915883/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
 <td>Custom Software Engineer</td>
+<td>📍 Navi Mumbai, Maharashtra, India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-accenture-in-india-4354232419/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/accentureindia">Accenture in India</a></td>
+<td>Full Stack Engineer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-accenture-in-india-4354172554/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bayone-solutions">BayOne Solutions</a></td>
+<td>Software Engineer (Network/Python)</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bayone-solutions-4365237147/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/societe_generale_global_solution_centre">Societe Generale Global Solution Centre</a></td>
+<td>Specialist Software Engineer - Full Stack Developer (Java & React)</td>
 <td>📍 Chennai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-accenture-in-india-4364641423/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-societe-generale-global-solution-centre-4354262310/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/reebelo">Reebelo</a></td>
-<td>Senior Full Stack Engineer, Marketplace (Node.js, AWS)</td>
-<td>📍 Warsaw, Mazowieckie, Poland</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-reebelo-4364238036/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/tcs-overview">Tata Consultancy Services</a></td>
-<td>React JS Developer</td>
-<td>📍 Noida, Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-tata-consultancy-services-200126006213/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360457764/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://br.linkedin.com/company/bradesco">Banco Bradesco</a></td>
-<td>Pessoa Desenvolvedora Frontend Angular SR</td>
-<td>📍 Osasco, São Paulo, Brazil</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-banco-bradesco-4364248160/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360897823/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://vn.linkedin.com/company/vmogroup">VMO</a></td>
-<td>Python Developer (From 4YoE)</td>
-<td>📍 Hanoi Capital Region</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-vmo-4360953631/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Bangalore Urban, Karnataka, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360971152/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/dexianindia">Dexian India</a></td>
-<td>Python React Developer</td>
-<td>📍 Singapore, Singapore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-dexian-india-4360962285/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://in.linkedin.com/company/hclsoftware">HCLSoftware</a></td>
-<td>Senior Software Engineer</td>
-<td>📍 Noida</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hclsoftware-4364257933/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior React Developer - Remote Work</td>
-<td>📍 Cluj, Romania</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360946169/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/johnson-controls">Johnson Controls</a></td>
-<td>Software Engineer - Data Scientist</td>
+<td><a href="https://www.ambitionbox.com/overview/new-indictrans-technologies-overview">New Indictrans Technologies</a></td>
+<td>Software Developer (Intern)</td>
 <td>📍 Pune</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-johnson-controls-4353931022/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-new-indictrans-technologies-210126503962/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/skillfiedmentor">SkillFied Mentor</a></td>
-<td>Data Analyst Intern (Excel, SQL, Power BI)</td>
-<td>📍 India</td>
+<td><a href="https://www.ambitionbox.com/overview/milan-laboratories-overview">Milan Laboratories</a></td>
+<td>Software Developer Intern</td>
+<td>📍 Navi Mumbai</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-skillfied-mentor-4364268076/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-milan-laboratories-290825015753/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/company/astucemedia">Astucemedia</a></td>
-<td>Full Stack Developer</td>
+<td><a href="https://www.linkedin.com/company/boeing">Boeing</a></td>
+<td>Software Engineer–Developer (Development)</td>
+<td>📍 Kent, WA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-boeing-4365229083/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/hp">HP</a></td>
+<td>Software Engineer, Full Stack</td>
+<td>📍 Vancouver, WA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hp-4365237120/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/autodesk">Autodesk</a></td>
+<td>Intern Software Developer, Stagiaire en Développement Logiciel</td>
 <td>📍 Montreal, Quebec, Canada</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-astucemedia-4364297857/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-autodesk-4362192842/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/franklin-fitch">Franklin Fitch</a></td>
-<td>Robotics Software Engineer</td>
-<td>📍 Austin, Texas Metropolitan Area</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-franklin-fitch-4364327919/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://nz.linkedin.com/company/vista-entertainment-solutions">Vista</a></td>
-<td>Senior Software Engineer - .Net (Platform)</td>
-<td>📍 Auckland, Auckland, New Zealand</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-vista-4364377749/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/cognizant">Cognizant</a></td>
-<td>Workforce Software Consultant</td>
-<td>📍 Riyadh, Saudi Arabia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cognizant-4364625000/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/wake-up-whistle">Wake Up Whistle</a></td>
-<td>DevOps Engineer Intern (Linux, Docker, Kubernetes)</td>
-<td>📍 India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-wake-up-whistle-4360467978/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/simprosys-infomedia-overview">Simprosys Infomedia</a></td>
-<td>Python Intern</td>
-<td>📍 Ahmedabad</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-simprosys-infomedia-80126500339/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore Urban, Karnataka, India</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360962189/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td>Commenda</td>
-<td>Software Development Intern - Test</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-commenda-190126501416/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://nz.linkedin.com/company/new-version-limited">New Version Limited</a></td>
-<td>Software Development Internship (Unpaid)</td>
-<td>📍 New Zealand</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-new-version-limited-4364237987/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.ambitionbox.com/overview/sibros-overview">Sibros</a></td>
-<td>Intern - Software Engineer</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sibros-190126501472/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
-<td>Simulation Software Infrastructure Architect</td>
-<td>📍 Tel Aviv District, Israel</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4364307526/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
-<td>Senior System Software Engineer</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4364267846/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
-<td>Senior System Software Engineer</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4364207659/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
-<td>Senior AI Infrastructure Software Engineer</td>
-<td>📍 Shanghai, Shanghai, China</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4364247916/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/wexinc">WEX</a></td>
-<td>Software Development Engineer - Data Acquisition</td>
+<td><a href="https://au.linkedin.com/company/commonwealthbank">Commonwealth Bank</a></td>
+<td>Principal Software Engineer - Node.js</td>
 <td>📍 Melbourne, Victoria, Australia</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-wex-4364257792/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-commonwealth-bank-4365211883/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ch.linkedin.com/company/synpulsemc">Synpulse</a></td>
-<td>Junior Software Developer</td>
-<td>📍 Taipei, Taipei City, Taiwan</td>
+<td><a href="https://www.linkedin.com/company/%E5%B9%BF%E5%B7%9E%E5%B8%82%E5%A4%A9%E5%A5%95%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">广州市天奕信息技术股份有限公司</a></td>
+<td>java工程师</td>
+<td>📍 Guangzhou, Guangdong, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-synpulse-4364632796/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365235203/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://in.linkedin.com/company/acsis-india-private-limited">ACSIS INDIA PRIVATE LIMITED</a></td>
-<td>Technical Manager - Java</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/%E6%AD%A6%E6%B1%89%E9%B9%8F%E8%BE%BE%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">武汉鹏达信息技术有限公司</a></td>
+<td>Java</td>
+<td>📍 Wuhan, Hubei, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-acsis-india-private-limited-4360437547/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365237093/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://ca.linkedin.com/company/td">TD</a></td>
-<td>Software Engineer I (UI Developer)</td>
+<td><a href="https://in.linkedin.com/company/tekwissenindia">TekWissen India</a></td>
+<td>Software Engineer (III) - Core Senior Engineer</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-tekwissen-india-4364650765/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>Software Engineering Intern – AXOS Tools</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365214868/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/griddable-io">griddable.io</a></td>
+<td>Manager, Software Engineering</td>
+<td>📍 Mexico City, Mexico</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-griddableio-4365216760/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/rbc">RBC</a></td>
+<td>Software Quality Engineer</td>
 <td>📍 Toronto, Ontario, Canada</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-td-4364397401/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-rbc-4365205865/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://lk.linkedin.com/company/career-consultants-pvt-ltd">CAREER141</a></td>
-<td>Software Engineering Manager</td>
-<td>📍 Colombo District, Western Province, Sri Lanka</td>
+<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
+<td>Senior Software Test Engineer</td>
+<td>📍 Pune</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-career141-4364287965/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4362118594/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Varanasi, Uttar Pradesh, India</td>
+<td><a href="https://se.linkedin.com/company/syntronic-ab">Syntronic - A Global Design House</a></td>
+<td>Java开发</td>
+<td>📍 Beijing, Beijing, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360971087/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-syntronic-a-global-design-house-4365223242/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Faridabad, Haryana, India</td>
+<td><a href="https://www.linkedin.com/company/apple">Apple</a></td>
+<td>Software Engineer - Networking</td>
+<td>📍 Cupertino, CA</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360487714/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-apple-4365214780/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://fr.linkedin.com/company/c12-quantum-electronics">C12</a></td>
-<td>Software Measurement Engineer</td>
-<td>📍 Paris, Île-de-France, France</td>
+<td><a href="https://cn.linkedin.com/company/%E4%B8%AD%E7%A7%91%E8%BD%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">中科软科技股份有限公司</a></td>
+<td>Java开发工程师实习生</td>
+<td>📍 Beijing, Beijing, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-c12-4364307456/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365234099/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://au.linkedin.com/company/dius-anz">DiUS</a></td>
-<td>Software Engineering Consultant</td>
-<td>📍 Sydney, New South Wales, Australia</td>
+<td><a href="https://www.linkedin.com/company/%E5%90%AF%E5%BE%B7%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2">启德教育集团 Education International Cooperation Group</a></td>
+<td>高级Java开发工程师</td>
+<td>📍 Beijing, Beijing, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-dius-4360962064/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--education-international-cooperation-group-4365219452/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Jaipur, Rajasthan, India</td>
+<td><a href="https://www.linkedin.com/company/%E7%A1%95%E8%BD%AF%EF%BC%88%E4%B8%8A%E6%B5%B7%EF%BC%89%E8%BD%AF%E4%BB%B6%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">硕软（上海）软件贸易有限公司</a></td>
+<td>Python Engineer</td>
+<td>📍 Shanghai, Shanghai, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360962225/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365219395/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/panoptyc">Panoptyc</a></td>
-<td>Full Stack Engineer - Europe</td>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>Engineering Intern (Java/Angular)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365230107/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://hk.linkedin.com/company/pr-newswire-asia">PR Newswire APAC</a></td>
+<td>Java Web 开发工程师</td>
+<td>📍 Beijing, Beijing, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-pr-newswire-apac-4365213896/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师（Python, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365227080/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/hcltech">HCLTech</a></td>
+<td>Software Engineer (Java + Kafka)</td>
+<td>📍 Singapore, Singapore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hcltech-4365213779/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/cienet-technologies">CIeNET Technologies</a></td>
+<td>Pyhton后端开发（AWS\微软云\机器学习)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cienet-technologies-4365215570/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://cn.linkedin.com/company/gosuncn-technology-group">Gosuncn Technology Group Co., Ltd.</a></td>
+<td>Java开发实习生（信息系统方向）</td>
+<td>📍 Guangzhou, Guangdong, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-gosuncn-technology-group-co-ltd-4365216525/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://cn.linkedin.com/company/%E5%8C%97%E4%BA%AC%E4%B8%BB%E7%BA%BF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">主线科技 TRUNK.TECH</a></td>
+<td>（校招）平台软件开发工程师（python）</td>
+<td>📍 Tianjin, Tianjin, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--trunktech-4365230012/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://cn.linkedin.com/company/archermind-inc.">ArcherMind Technology (Nanjing) Co., Ltd.</a></td>
+<td>前端react开工程师</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-archermind-technology-nanjing-co-ltd-4365213796/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lab126">Amazon Lab126</a></td>
+<td>Software Dev Engineer II</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-amazon-lab126-4365206014/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://cn.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%8E%8C%E4%B8%8A%E5%85%88%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京掌上先机网络科技有限公司</a></td>
+<td>Java研发-校招/实习转正(J15117)</td>
+<td>📍 Beijing, Beijing, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365215460/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/%E5%87%AF%E6%98%93%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91-%E5%8D%97%E4%BA%AC-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">凯易讯网络技术开发(南京)有限公司</a></td>
+<td>高级后端开发工程师(Python, Go, Ops)</td>
+<td>📍 Nanjing, Jiangsu, China</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365204924/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://br.linkedin.com/company/institutoflexpeak">Instituto FlexPeak</a></td>
+<td>Instrutor de Desenvolvimento de Software e IA - AM</td>
 <td>📍 Brazil</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-panoptyc-4364387382/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-instituto-flexpeak-4365198886/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://jp.linkedin.com/company/fidel-consulting-kk">Fidel Consulting KK</a></td>
-<td>Pythonエンジニア(9960)</td>
-<td>📍 Tokyo, Japan</td>
+<td><a href="https://www.linkedin.com/company/washingtonpost">The Washington Post</a></td>
+<td>Summer Intern Software Engineering, CloudOps</td>
+<td>📍 Washington, DC</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-fidel-consulting-kk-4364277905/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-the-washington-post-4365199193/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/radix-health-io">Radix Health</a></td>
-<td>Lead Software Engineer (Backend)</td>
-<td>📍 New York, NY</td>
+<td><a href="https://www.linkedin.com/company/%E9%BA%A6%E6%A0%BC%E7%BA%B3%E7%94%B5%E5%AD%90-%E8%8B%8F%E5%B7%9E-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">麦格纳电子(苏州)有限公司</a></td>
+<td>Python开发</td>
+<td>📍 Tianjin, Tianjin, China</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-radix-health-4364377454/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/panoptyc">Panoptyc</a></td>
-<td>Full Stack Engineer - Europe</td>
-<td>📍 European Union</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-panoptyc-4364387381/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/gdit">General Dynamics Information Technology</a></td>
-<td>Software Developer</td>
-<td>📍 Wiesbaden, Hesse, Germany</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-general-dynamics-information-technology-4364347674/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://sg.linkedin.com/company/horizons-eor">Horizons</a></td>
-<td>Software Quality Assurance Tester</td>
-<td>📍 Taichung City, Taiwan</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-horizons-4364227811/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/radix-health-io">Radix Health</a></td>
-<td>Lead Software Engineer (Backend)</td>
-<td>📍 Los Angeles, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-radix-health-4364347596/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/panoptyc">Panoptyc</a></td>
-<td>Full Stack Engineer - Europe</td>
-<td>📍 Romania</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-panoptyc-4364267755/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Senior Software Engineer at Mastercard</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4360897652/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Lead Software Engineer - Full Stack (Java, Micro-services, React/Angular) at Mastercard</td>
-<td>📍 Pune</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4360970999/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Software Engineer - Food at Cargill</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4360970979/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Senior Software Engineer at Cargill</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4360867602/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hackajob">hackajob</a></td>
-<td>Senior C++ Software Engineer - Ad-Tech or FinTech</td>
-<td>📍 Chicago, IL</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hackajob-4360970984/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Full Stack Automation Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4364307640/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Software Developer Student, Israel</td>
-<td>📍 Petah Tikva, Center District, Israel</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4364307638/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
-<td>Software Developer, India</td>
-<td>📍 Delhi</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4364387588/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/caci-international-inc">CACI International Inc</a></td>
-<td>Full Stack Java Developer</td>
-<td>📍 Ashburn, VA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-caci-international-inc-4364367560/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at--4365201825/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
 <td>Software Developer (Devices), India</td>
 <td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4364633020/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4365203757/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/caci-international-inc">CACI International Inc</a></td>
-<td>Software Developer - Early Career</td>
-<td>📍 North Charleston, SC</td>
+<td><a href="https://at.linkedin.com/company/exploreal-gmbh">Exploreal Gmbh</a></td>
+<td>Software Entwickler - Node.js/React/php Fullstack (w/m/d) VZ</td>
+<td>📍 Vienna, Vienna, Austria</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-caci-international-inc-4362450877/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-exploreal-gmbh-4365207762/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/blood-bank-computer-systems">Blood Bank Computer Systems, Inc. (BBCS)</a></td>
-<td>Software Implementation Specialist</td>
-<td>📍 United States</td>
+<td><a href="https://ca.linkedin.com/company/rbc">RBC</a></td>
+<td>Software Quality Engineer</td>
+<td>📍 Toronto, Ontario, Canada</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-blood-bank-computer-systems-inc-bbcs-4364397248/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-rbc-4365208734/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/caci-international-inc">CACI International Inc</a></td>
-<td>Software Developer</td>
-<td>📍 North Charleston, SC</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Software Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-caci-international-inc-4362470697/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4365211672/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/caci-international-inc">CACI International Inc</a></td>
-<td>Full Stack Developer</td>
-<td>📍 Chantilly, VA</td>
+<td><a href="https://br.linkedin.com/company/handsonmarketing">Hands On</a></td>
+<td>Executivo Comercial - Software House - SP</td>
+<td>📍 Greater São Paulo Area</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-caci-international-inc-4364277755/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-hands-on-4365214269/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Bangalore</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Full Stack Automation Developer, India</td>
+<td>📍 Delhi</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360457677/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4365211650/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/panoptyc">Panoptyc</a></td>
-<td>Full Stack Engineer - Europe</td>
-<td>📍 Poland</td>
+<td><a href="https://www.linkedin.com/company/algosec">AlgoSec</a></td>
+<td>Software Developer Student, Israel</td>
+<td>📍 Petah Tikva, Center District, Israel</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-panoptyc-4364632808/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-algosec-4365218071/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/enhanced-compliance-inc">ECI</a></td>
-<td>Software Test/Validation Engineer (Med Device) #7728</td>
-<td>📍 Marlborough, MA</td>
+<td><a href="https://br.linkedin.com/company/grupomuffato">Grupo Muffato</a></td>
+<td>Desenvolvedor Full Stack - PR</td>
+<td>📍 Greater Londrina</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-eci-4364317505/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-grupo-muffato-4365210570/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/gdit">General Dynamics Information Technology</a></td>
-<td>JR Front End Engineer</td>
-<td>📍 United States</td>
+<td><a href="https://br.linkedin.com/company/innolevels">innolevels</a></td>
+<td>Desenvolvedor Java Sênior  - SP</td>
+<td>📍 Greater São Paulo Area</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-general-dynamics-information-technology-4364067802/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-innolevels-4365211251/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/charles-river-laboratories">Charles River Laboratories</a></td>
-<td>Full-Stack Software Developer (Drupal / React)</td>
-<td>📍 Ballina, County Mayo, Ireland</td>
+<td><a href="https://br.linkedin.com/company/innolevels">innolevels</a></td>
+<td>Desenvolvedor Backend Node.js - RJ</td>
+<td>📍 Greater Rio de Janeiro</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-charles-river-laboratories-4364367262/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-innolevels-4365211258/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Indore, Madhya Pradesh, India</td>
+<td><a href="https://www.linkedin.com/company/globalelife">Elife Transfer</a></td>
+<td>Software Development Engineer in Test</td>
+<td>📍 India</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360971039/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-elife-transfer-4365194558/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://uk.linkedin.com/company/wearehaystack">Haystack</a></td>
-<td>Software Engineer</td>
+<td><a href="https://br.linkedin.com/company/innolevels">innolevels</a></td>
+<td>Desenvolvedor Front-end Angular  - SP</td>
+<td>📍 Greater São Paulo Area</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-innolevels-4365206210/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/clarity-partners-chicago">Clarity Partners</a></td>
+<td>Software Development Internship</td>
 <td>📍 Chicago, IL</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-haystack-4364632772/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-clarity-partners-4365197300/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/bairesdev">BairesDev</a></td>
-<td>Semi Senior Python Developer - Remote Work</td>
-<td>📍 Chennai</td>
+<td><a href="https://www.linkedin.com/company/american-express-global-business-travel">American Express Global Business Travel</a></td>
+<td>Software Development Engineer I</td>
+<td>📍 Gurugram</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bairesdev-4360807759/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-american-express-global-business-travel-4354182241/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://br.linkedin.com/company/unifisa">UNIFISA ADM NACIONAL DE CONSORCIOS LTDA.</a></td>
-<td>Desenvolvedor(a) Python Jr.</td>
-<td>📍 Santana de Parnaíba, São Paulo, Brazil</td>
+<td><a href="https://uk.linkedin.com/company/barclays-bank">Barclays</a></td>
+<td>Full Stack Developer</td>
+<td>📍 Pune</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-unifisa-adm-nacional-de-consorcios-ltda-4364227728/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://jp.linkedin.com/company/komatsu">Komatsu</a></td>
-<td>Software Engineer - Shearer Team</td>
-<td>📍 Franklin, PA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-komatsu-4364632883/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/becoming-ai">Becoming</a></td>
-<td>Software Engineer (Full Stack)</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-becoming-4364227737/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://fr.linkedin.com/company/notonlygeek">Notonlygeek</a></td>
-<td>Développeur informatique python</td>
-<td>📍 Dijon, Bourgogne-Franche-Comté, France</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-notonlygeek-4364217318/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Staff Software Engineer, Platform</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-unify-4364217539/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/unifygtm">Unify</a></td>
-<td>Staff Software Engineer, Backend Product</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-unify-4364641084/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/panoptyc">Panoptyc</a></td>
-<td>Full Stack Engineer - Europe</td>
-<td>📍 Hungary</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-panoptyc-4364277643/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://sg.linkedin.com/company/polaris-edge">Polaris Edge</a></td>
-<td>Full Stack Software Developer</td>
-<td>📍 Jakarta, Indonesia</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-polaris-edge-4364600517/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td>AMK Technology</td>
-<td>Angular Developer</td>
-<td>📍 Chennai</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-amk-technology-200126005916/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://fr.linkedin.com/company/c12-quantum-electronics">C12</a></td>
-<td>Software Engineer</td>
-<td>📍 Paris, Île-de-France, France</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-c12-4364624734/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
-<td>Senior Software Engineer - Trade Finance Operations</td>
-<td>📍 Bangalore</td>
-<td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cgi-4364247780/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-barclays-4355290400/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/spglobal">S&P Global</a></td>
-<td>Engineer III, Software Development</td>
-<td>📍 Hyderabad</td>
+<td>Associate Director - Full Stack Java Developer</td>
+<td>📍 Gurugram</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sp-global-4360857632/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sp-global-4362620237/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/vetsez">VetsEZ</a></td>
+<td>Full Stack Developer (Remote Opportunity)</td>
+<td>📍 Austin, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-vetsez-4365207090/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/halliday">Halliday</a></td>
+<td>Front End Engineer</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-halliday-4365201160/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Software Engineer, DL Libraries Infrastructure</td>
+<td>📍 Colorado, United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365207074/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://fi.linkedin.com/company/wartsila">Wärtsilä</a></td>
+<td>Software Business Analyst</td>
+<td>📍 Vancouver, British Columbia, Canada</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-wrtsil-4365203000/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Deep Learning Software Engineer, Inference and Model Optimization</td>
+<td>📍 Santa Clara, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365203131/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Deep Learning Software Engineer, Inference and Model Optimization</td>
+<td>📍 Santa Clara, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365211027/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior System Software Engineer for Tegra - Memory SW</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365195389/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Software Engineer, DL Libraries Infrastructure</td>
+<td>📍 Austin, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365204114/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Software Engineer, DL Libraries Infrastructure</td>
+<td>📍 Texas, United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365204113/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior Software Engineer, DL Libraries Infrastructure</td>
+<td>📍 Redmond, WA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365209033/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>Software Engineering Intern (Summer 2026)</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sigma-4365012864/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/nvidia">NVIDIA</a></td>
+<td>Senior System Software Engineer for Tegra - Memory SW</td>
+<td>📍 Pune</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-nvidia-4365205105/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/airspace-intelligence">Air Space Intelligence</a></td>
+<td>Software Engineer Intern (Summer '26)</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-air-space-intelligence-4365198035/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/onestream-software">OneStream Software</a></td>
+<td>Associate Software Development Engineering in Test Intern</td>
+<td>📍 United States</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-onestream-software-4354202250/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/atomic-semi">Atomic Semi</a></td>
+<td>Embedded Software Engineering Intern - Summer</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-atomic-semi-4365196227/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Staff Software Engineer I - Internal Access Management</td>
-<td>📍 Denver, CO</td>
+<td>Software Engineering Intern I, Summer 2026</td>
+<td>📍 Manchester, NH</td>
 <td>1d ago</td>
-<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4364377133/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4365190106/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/texas-instruments">Texas Instruments</a></td>
+<td>Software Engineering Intern</td>
+<td>📍 Dallas, TX</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-texas-instruments-4362118429/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/airspace-intelligence">Air Space Intelligence</a></td>
+<td>Software Engineer Co-Op (Fall '26)</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-air-space-intelligence-4365187894/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/productnowai">ProductNow</a></td>
+<td>Fullstack Software Engineer Intern</td>
+<td>📍 Palo Alto, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-productnow-4365177987/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/moveworksai">Moveworks</a></td>
+<td>Software Engineer, Agentic AI Systems</td>
+<td>📍 Mountain View, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-moveworks-4365192039/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>AI Software QA II (Intern) - United States</td>
+<td>📍 San Jose, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4365188468/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sigmacomputing">Sigma</a></td>
+<td>Software Engineer (New Grad Program)</td>
+<td>📍 New York, NY</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-sigma-4365020686/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/moveworksai">Moveworks</a></td>
+<td>Software Engineer, Agentic AI Systems</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-moveworks-4365172862/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/8vc">8VC</a></td>
+<td>Software Engineer Intern - Thorin</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-8vc-4365194293/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/bristol-myers-squibb">Bristol Myers Squibb</a></td>
+<td>Software Engineer II, Workday Core HCM and Security</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-bristol-myers-squibb-4365187641/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td>Flare Consulting</td>
+<td>Full Stack Developer(React + RESTful/graphQL APIs)</td>
+<td>📍 Mumbai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-flare-consulting-220126007147/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Software Engineer-Java Production Support</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cgi-4365181867/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>S2R_DNA_JAVA/PYTHON/APACHE_Q4_FY26</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362521901/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/cisco">Cisco</a></td>
+<td>Software Engineer</td>
+<td>📍 Milpitas, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cisco-4365195028/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
+<td>📍 Chennai</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-grid-dynamics-4365191159/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ca.linkedin.com/company/cgi">CGI</a></td>
+<td>Software Engineer-Informatica application support Engineer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-cgi-4365190460/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/grid-dynamics">Grid Dynamics</a></td>
+<td>Python Full Stack Developer</td>
+<td>📍 Hyderabad</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-grid-dynamics-4365178696/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AWS DevOps Consultant - QLTY</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362561663/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Software Engineering Internships (Summer 2026, In Person- LA)</td>
+<td>📍 Burbank, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4365174583/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lockheed-martin">Lockheed Martin</a></td>
+<td>Software Business Analyst</td>
+<td>📍 Cape Canaveral, FL</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lockheed-martin-4365189400/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/best-job-tool">Best Job Tool</a></td>
+<td>AWS Engineer</td>
+<td>📍 India</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-best-job-tool-4365187228/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>AWS Engineer - Manager</td>
+<td>📍 Los Angeles, CA</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4365184454/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/belay-technologies">Belay Technologies</a></td>
+<td>Junior Software Engineer</td>
+<td>📍 Fort Meade, MD</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-belay-technologies-4365178724/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>React Js Developer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362183407/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>AWS Professional</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362155323/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python Developer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362183416/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://in.linkedin.com/company/infosys">Infosys</a></td>
+<td>Python ML Engineer</td>
+<td>📍 Bangalore</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-infosys-4362118165/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Undergrad Software Engineer Intern - Database Technologies</td>
+<td>📍 Honolulu, HI</td>
+<td>1d ago</td>
+<td align="center"><a href="https://dev.mployee.me/jobs/view/full-stack-developer-jobs-in-gurugram-at-lensa-4365177585/s1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -2944,7 +2944,7 @@
 | Metric | Count |
 |:-------|------:|
 | 📊 Total Listings | **4000** |
-| 🌍 Remote Jobs | **38** |
+| 🌍 Remote Jobs | **43** |
 | 📊 Data Scientist | **1000** |
 | 💼 Business Analyst | **1000** |
 | 🚀 Product Manager | **1000** |
@@ -3017,7 +3017,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Wednesday, January 21, 2026 at 02:07 AM UTC**
+**Friday, January 23, 2026 at 02:04 AM UTC**
 
 ---
 
