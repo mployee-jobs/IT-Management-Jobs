@@ -287,7 +287,7 @@ const generateReadme = () => {
 
           // Generate dynamic URL for your website
           const jobUrl = generateJobUrl(job, profile);
-          const apply = `<a href="${jobUrl}"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a>`;
+          const apply = `<a target="_blank" rel="noopener noreferrer" href="${jobUrl}"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a>`;
 
           content += `<tr>
 <td>${company}</td>
