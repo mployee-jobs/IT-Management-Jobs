@@ -48,7 +48,7 @@ const TO_INCLUDE = {
   postedDateTime: 1,
   posted_date: 1,
   _id: 1,
-  "Job ID (Numeric)" : 1
+  "Job ID (Numeric)": 1
 };
 
 const PROFILES_TO_INCLUDE = [
@@ -70,38 +70,38 @@ const convertProfileArrayIntoRegex = (profileRegex) =>
 
 // Create URL-friendly slug
 function createSlug(text) {
-    if (!text) return ''
-    return text
-      .toString()
-      .toLowerCase()
-      .trim()
-      .replace(/\s+/g, '-')
-      .replace(/[^\w-]+/g, '')
-      .replace(/--+/g, '-')
-  }
+  if (!text) return ''
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '')
+    .replace(/--+/g, '-')
+}
 
 // Generate dynamic job URL
 const generateJobUrl = (job, profile) => {
   const companySlug = createSlug(job.company);
   const locationSlug = PROFILE_MAPPING_WITH_JOB_PAGES[profile]["location"]
   const profileSlug = PROFILE_MAPPING_WITH_JOB_PAGES[profile]["profile"]
-  
+
   // Base URL from environment or default
   const baseUrl = process.env.WEBSITE_URL || 'https://yourwebsite.com';
-  
-  return `${baseUrl}/jobs/view/${profileSlug}-in-${locationSlug}-at-${companySlug}-${job["Job ID (Numeric)"]}/s1`;
+
+  return `${baseUrl}/us/jobs/view/${profileSlug}-in-${locationSlug}-at-${companySlug}-${job["Job ID (Numeric)"]}/us1`;
 };
 
 // Calculate time ago from date
 const getTimeAgo = (dateString) => {
   if (!dateString || dateString === "-") return "-";
-  
+
   try {
     const date = new Date(dateString);
     const now = new Date();
     const seconds = Math.floor((now - date) / 1000);
     const days = Math.floor(seconds / 86400);
-    
+
     if (days === 0) return "Today";
     if (days === 1) return "1d ago";
     if (days < 7) return `${days}d ago`;
@@ -116,7 +116,7 @@ const getTimeAgo = (dateString) => {
 // Get location badge with color
 const getLocationBadge = (location) => {
   if (!location || location === "-") return "-";
-  
+
   if (location.toLowerCase().includes("remote")) {
     return `![Remote](https://img.shields.io/badge/🌍_Remote-green)`;
   } else if (location.toLowerCase().includes("hybrid")) {
@@ -166,7 +166,7 @@ const generateProfileRegex = async () => {
 const fetchJobs = async () => {
   try {
     const client = await getMarketingClient();
-    const jobsCollection = getCollection(client, "jobs_it_mgmts");
+    const jobsCollection = getCollection(client, "jobs_it_mgmts_usa");
 
     await Promise.all(
       PROFILES_TO_INCLUDE.map(async (profile) => {
@@ -229,7 +229,7 @@ const generateReadme = () => {
       const emoji = getProfileEmoji(profile);
       const anchor = profile.toLowerCase().replace(/\s+/g, "-");
       const jobCount = PROFILE_JOBS_MAPPING[profile]?.length || 0;
-      
+
       content += `<td align="center" width="25%">
 <a href="#-${anchor}">
 <img src="https://img.shields.io/badge/${emoji}_${profile.replace(/ /g, '_')}-${jobCount}_Jobs-blue?style=for-the-badge" alt="${profile}">
@@ -428,24 +428,24 @@ Found a broken link or want to add a job posting? Feel free to:
 };
 
 // ======================== Job Pages Mapping With Profile =============
-const mapJobPages = async()=>{
-  try{
+const mapJobPages = async () => {
+  try {
 
     const client = await getMarketingClient();
-    const jobPagesCollection = await getCollection(client , "jobpages");
+    const jobPagesCollection = await getCollection(client, "usJobPages");
     const jobPages = await jobPagesCollection
-    .find({ title : {$in : PROFILES_TO_INCLUDE} })
-    .sort({createdAt : -1})
-    .toArray();
+      .find({ title: { $in: PROFILES_TO_INCLUDE } })
+      .sort({ createdAt: -1 })
+      .toArray();
 
-    jobPages.forEach(jobPage=>{
-      PROFILE_MAPPING_WITH_JOB_PAGES[jobPage?.["title"]] = {profile : jobPage?.["tag1"] , location : jobPage?.["tag2"]  }
+    jobPages.forEach(jobPage => {
+      PROFILE_MAPPING_WITH_JOB_PAGES[jobPage?.["title"]] = { profile: jobPage?.["tag1"], location: jobPage?.["tag2"] }
     })
 
     console.log("✅ JobPages mapped with profiles");
 
-  }catch(err){
-    console.log("[ERROR] in MapJobPages function : " , err.message)
+  } catch (err) {
+    console.log("[ERROR] in MapJobPages function : ", err.message)
   }
 }
 
