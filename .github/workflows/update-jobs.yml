@@ -15,10 +15,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    # env:
-    #   MONGO_URL: ${{ secrets.MONGO_URL }}
-    #   MARKETING_URI: ${{ secrets.MARKETING_URI }}
-    #   WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
+    env:
+      MONGO_URL: ${{ secrets.MONGO_URL }}
+      MARKETING_URI: ${{ secrets.MARKETING_URI }}
+      WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
 
     steps:
       - name: 🔧 Checkout repository
