@@ -221,7 +221,7 @@ const generateReadme = () => {
 
 ---
 
-<div>
+<div align="left">
 
 <p>
 We track real entry-level tech jobs designed for candidates with 0–2 years of experience, including recent graduates, bootcamp students and early-career professionals.
