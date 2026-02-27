@@ -1,16 +1,102 @@
 
 <div align="center">
 
-# 🚀 Tech Jobs Board
+# <h1>IT Entry Level Jobs in USA | Updated Daily</h1>
 
-### Your Gateway to Amazing Career Opportunities
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
+![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
+![0–2 Years Experience](https://img.shields.io/badge/0–2_Years_Experience-orange?style=for-the-badge&logo=education)
+![Direct Apply Links](https://img.shields.io/badge/Direct_Apply_Links-green?style=for-the-badge&logo=link)
 
-![Total Listings](https://img.shields.io/badge/Total_Listings-4000-blue?style=for-the-badge&logo=database)
-![Last Updated](https://img.shields.io/badge/Updated-2/27/2026-orange?style=for-the-badge&logo=clock)
+
+<p>If you're searching for IT entry level jobs in the United States, this repository helps you find verified, active roles across software engineering, IT support, data analytics, cybersecurity, cloud and DevOps domains.</p>
 
 ---
 
-## 🎯 Browse by Job Profile
+<p>We track real entry-level tech jobs designed for candidates with 0–2 years of experience, including recent graduates, bootcamp students and early-career professionals.</p>
+- ✅ **Require 0-2 years of experience**
+- 🇺🇸 **Based in the USA**
+- 🕒 **Updated every 24 hours**
+- 🔗 **Direct links to company career pages**
+
+
+---
+
+
+<div align="center">
+<div style="
+background-color:#0d1117;
+border:1px solid #30363d;
+border-radius:12px;
+padding:20px;
+width:100%;
+max-width:800px;
+color : white;
+">
+
+<p>
+	<b>Applying to entry level jobs ?</b>
+</p>
+
+<hr style="height:1px;border:none;background-color:#30363d;">
+
+<p>
+	<i>Make sure your resume passes the ATS filters</i>
+</p>
+
+<a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+	<img 
+	src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
+	alt="Resume Checker"
+	width="300"
+	/>
+</a>
+
+</div>
+</div>
+
+
+### <h2>Types of IT entry level jobs we track:</h2>
+
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr style="background-color: #f8f9fa;">
+      <th align="left" style="padding: 10px;">💻 Software Engineering</th>
+      <th align="left" style="padding: 10px;">🛠️ IT Support & Infrastructure</th>
+      <th align="left" style="padding: 10px;">☁️ Cloud & DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 Junior Software Engineer</li>
+          <li>🟢 Entry Level Frontend Developer</li>
+          <li>🟢 Backend Developer (Junior)</li>
+          <li>🟢 QA Engineer</li>
+        </ul>
+      </td>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 IT Support Specialist</li>
+          <li>🟢 Help Desk Technician</li>
+          <li>🟢 System Administrator (Entry Level)</li>
+          <li>🟢 Desktop Support</li>
+        </ul>
+      </td>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 Junior Cloud Engineer</li>
+          <li>🟢 DevOps Engineer (Entry Level)</li>
+          <li>🟢 AWS / Azure Associate Roles</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <table>
 <tr>
@@ -80,11 +166,25 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-capital-one-4361386981/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/baker-group">Baker Group</a></td>
+<td>Intern - Automation</td>
+<td>📍 Des Moines, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-baker-group-4373008367/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://de.linkedin.com/company/siemens-healthineers">Siemens Healthineers</a></td>
 <td>Sales Executive, Lab Automation for West Texas - Oklahoma - New Mexico</td>
 <td>📍 Albuquerque, NM</td>
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-siemens-healthineers-4377282300/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rockwoods-inc">Rockwoods Inc</a></td>
+<td>Senior Oracle SQL Developer</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-rockwoods-inc-4376082998/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://uk.linkedin.com/company/basecamp-research-bcr">Basecamp Research</a></td>
@@ -316,6 +416,13 @@
 <td>📍 Indianapolis, IN</td>
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-eurofins-4378385176/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sandia-national-laboratories">Sandia National Laboratories</a></td>
+<td>Intern, R&D Graduate Year Round - CMOS Tech & Future Products, Hybrid</td>
+<td>📍 Albuquerque, NM</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-sandia-national-laboratories-4369546501/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/sandia-national-laboratories">Sandia National Laboratories</a></td>
@@ -744,27 +851,6 @@
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-zachary-piper-solutions-4377250302/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/gotyto">Tyto Athene, LLC</a></td>
-<td>Azure Cloud Engineer</td>
-<td>📍 Colorado Springs, CO</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-tyto-athene-llc-4378356372/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ca.linkedin.com/company/hootsuite">Hootsuite</a></td>
-<td>Staff Data Analyst - Marketing & Revenue Analytics (GTM)</td>
-<td>📍 US</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-hootsuite-4329135143/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/boston-beer-company">The Boston Beer Company</a></td>
-<td>Data Analytics Co-op at SACB</td>
-<td>📍 Cincinnati, OH</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-the-boston-beer-company-4369241139/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
 </table>
@@ -802,11 +888,25 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-capital-one-4361386981/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/baker-group">Baker Group</a></td>
+<td>Intern - Automation</td>
+<td>📍 Des Moines, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-baker-group-4373008367/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://de.linkedin.com/company/siemens-healthineers">Siemens Healthineers</a></td>
 <td>Sales Executive, Lab Automation for West Texas - Oklahoma - New Mexico</td>
 <td>📍 Albuquerque, NM</td>
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-siemens-healthineers-4377282300/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rockwoods-inc">Rockwoods Inc</a></td>
+<td>Senior Oracle SQL Developer</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-rockwoods-inc-4376082998/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/corsource-technology-group">CorSource</a></td>
@@ -1473,20 +1573,6 @@
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-vivint-4359880942/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/sii-group-usa">SII Group USA</a></td>
-<td>Quality Assurance Automation Engineer - SDET</td>
-<td>📍 Austin, TX</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-sii-group-usa-4378358341/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/united-software-group-inc">United Software Group Inc</a></td>
-<td>Python FullStack Developer</td>
-<td>📍 Austin, TX</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-united-software-group-inc-4375525975/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
 </table>
@@ -1524,11 +1610,25 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-bisn-4377275456/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/baker-group">Baker Group</a></td>
+<td>Intern - Automation</td>
+<td>📍 Des Moines, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-baker-group-4373008367/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://de.linkedin.com/company/siemens-healthineers">Siemens Healthineers</a></td>
 <td>Sales Executive, Lab Automation for West Texas - Oklahoma - New Mexico</td>
 <td>📍 Albuquerque, NM</td>
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-siemens-healthineers-4377282300/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rockwoods-inc">Rockwoods Inc</a></td>
+<td>Senior Oracle SQL Developer</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rockwoods-inc-4376082998/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ryan-herco-flow-solutions">Ryan Herco Flow Solutions</a></td>
@@ -2195,20 +2295,6 @@
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-criticalriver-inc-4378041959/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/idrinc">IDR, Inc.</a></td>
-<td>Scrum Master</td>
-<td>📍 Memphis, TN</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-idr-inc-4378377075/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/dataannotationtech">DataAnnotation</a></td>
-<td>Denial Management Coordinator</td>
-<td>📍 US</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-dataannotation-4378362457/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
 </table>
@@ -2237,6 +2323,13 @@
 <td>📍 Scottsdale, AZ</td>
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-axon-4369250006/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rockwoods-inc">Rockwoods Inc</a></td>
+<td>Senior Oracle SQL Developer</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-rockwoods-inc-4376082998/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/amtrak">Amtrak</a></td>
@@ -2869,6 +2962,13 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-anduril-industries-4335479787/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/beaconfireinc">BeaconFire Inc.</a></td>
+<td>Full Stack Engineer</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-beaconfire-inc-4374813975/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/john-deere">John Deere</a></td>
 <td>Staff Software Engineer</td>
 <td>📍 US</td>
@@ -2897,6 +2997,13 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-accenture-federal-services-4369260447/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/cdknorthamerica">CDK Global</a></td>
+<td>New Business Sales - Automotive Software</td>
+<td>📍 Wichita, KS</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-cdk-global-4301561624/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/amd">AMD</a></td>
 <td>Sr. Manager Software Development</td>
 <td>📍 San Jose, CA</td>
@@ -2910,30 +3017,29 @@
 <td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-cdk-global-4366059516/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/topstackgroup">Top Stack</a></td>
-<td>Lead Java Software Engineer</td>
-<td>📍 Oaks, OK</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-top-stack-4378371331/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/hugrecruitment">HUG</a></td>
-<td>Full Stack Founding Engineer | San Francisco | Up to $200K</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-hug-4378358894/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/american-integrity-insurance-company">American Integrity Insurance Company</a></td>
-<td>Senior Java Developer</td>
-<td>📍 Tampa, FL</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-american-integrity-insurance-company-4378361378/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
 </table>
+
+---
+
+### <h2>🔍 <font color="#58a6ff"> Popular IT entry jobs</font></h2>
+
+<p align="center">
+If these were not the jobs you were looking for, try searching based on the profile:
+</p>
+
+<p align="center">
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs"><img src="https://img.shields.io/badge/Software_Developer-0078D4?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-engineer-jobs"><img src="https://img.shields.io/badge/Data_Engineer-28A745?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/business-analyst-jobs"><img src="https://img.shields.io/badge/Business_Analyst-FFC107?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-scientist-jobs"><img src="https://img.shields.io/badge/Data_Scientist-6F42C1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/python-developer-jobs"><img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/ai-solution-specialist-jobs"><img src="https://img.shields.io/badge/AI--Solution_Specialist-00A4EF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/accountant-jobs"><img src="https://img.shields.io/badge/Accountant-D22128?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/sales-manager-jobs"><img src="https://img.shields.io/badge/Sales-00A3A0?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/finance-executive-jobs"><img src="https://img.shields.io/badge/Finance_Executive-E91E63?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -3017,7 +3123,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 02:30 AM UTC**
+**Friday, February 27, 2026 at 09:24 PM GMT+5:30**
 
 ---
 

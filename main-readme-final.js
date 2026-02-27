@@ -209,16 +209,102 @@ const generateReadme = () => {
     let content = `
 <div align="center">
 
-# 🚀 Tech Jobs Board
+# <h1>IT Entry Level Jobs in USA | Updated Daily</h1>
 
-### Your Gateway to Amazing Career Opportunities
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
+![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
+![0–2 Years Experience](https://img.shields.io/badge/0–2_Years_Experience-orange?style=for-the-badge&logo=education)
+![Direct Apply Links](https://img.shields.io/badge/Direct_Apply_Links-green?style=for-the-badge&logo=link)
 
-![Total Listings](https://img.shields.io/badge/Total_Listings-${totalJobs}-blue?style=for-the-badge&logo=database)
-![Last Updated](https://img.shields.io/badge/Updated-${new Date().toLocaleDateString()}-orange?style=for-the-badge&logo=clock)
+
+<p>If you're searching for IT entry level jobs in the United States, this repository helps you find verified, active roles across software engineering, IT support, data analytics, cybersecurity, cloud and DevOps domains.</p>
 
 ---
 
-## 🎯 Browse by Job Profile
+<p>We track real entry-level tech jobs designed for candidates with 0–2 years of experience, including recent graduates, bootcamp students and early-career professionals.</p>
+- ✅ **Require 0-2 years of experience**
+- 🇺🇸 **Based in the USA**
+- 🕒 **Updated every 24 hours**
+- 🔗 **Direct links to company career pages**
+
+
+---
+
+
+<div align="center">
+<div style="
+background-color:#0d1117;
+border:1px solid #30363d;
+border-radius:12px;
+padding:20px;
+width:100%;
+max-width:800px;
+color : white;
+">
+
+<p>
+	<b>Applying to entry level jobs ?</b>
+</p>
+
+<hr style="height:1px;border:none;background-color:#30363d;">
+
+<p>
+	<i>Make sure your resume passes the ATS filters</i>
+</p>
+
+<a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+	<img 
+	src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
+	alt="Resume Checker"
+	width="300"
+	/>
+</a>
+
+</div>
+</div>
+
+
+### <h2>Types of IT entry level jobs we track:</h2>
+
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr style="background-color: #f8f9fa;">
+      <th align="left" style="padding: 10px;">💻 Software Engineering</th>
+      <th align="left" style="padding: 10px;">🛠️ IT Support & Infrastructure</th>
+      <th align="left" style="padding: 10px;">☁️ Cloud & DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 Junior Software Engineer</li>
+          <li>🟢 Entry Level Frontend Developer</li>
+          <li>🟢 Backend Developer (Junior)</li>
+          <li>🟢 QA Engineer</li>
+        </ul>
+      </td>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 IT Support Specialist</li>
+          <li>🟢 Help Desk Technician</li>
+          <li>🟢 System Administrator (Entry Level)</li>
+          <li>🟢 Desktop Support</li>
+        </ul>
+      </td>
+      <td valign="top" style="padding: 10px;">
+        <ul style="list-style: none; padding-left: 0; margin: 0;">
+          <li>🟢 Junior Cloud Engineer</li>
+          <li>🟢 DevOps Engineer (Entry Level)</li>
+          <li>🟢 AWS / Azure Associate Roles</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <table>
 <tr>
@@ -309,6 +395,29 @@ const generateReadme = () => {
 ---
 `;
     });
+
+    // Popular IT entry level jobs section (Refined to Badge Style)
+    content += `
+### <h2>🔍 <font color="#58a6ff"> Popular IT entry jobs</font></h2>
+
+<p align="center">
+If these were not the jobs you were looking for, try searching based on the profile:
+</p>
+
+<p align="center">
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs"><img src="https://img.shields.io/badge/Software_Developer-0078D4?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-engineer-jobs"><img src="https://img.shields.io/badge/Data_Engineer-28A745?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/business-analyst-jobs"><img src="https://img.shields.io/badge/Business_Analyst-FFC107?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-scientist-jobs"><img src="https://img.shields.io/badge/Data_Scientist-6F42C1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/python-developer-jobs"><img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/ai-solution-specialist-jobs"><img src="https://img.shields.io/badge/AI--Solution_Specialist-00A4EF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/accountant-jobs"><img src="https://img.shields.io/badge/Accountant-D22128?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/sales-manager-jobs"><img src="https://img.shields.io/badge/Sales-00A3A0?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/finance-executive-jobs"><img src="https://img.shields.io/badge/Finance_Executive-E91E63?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+`;
 
     // Statistics Section
     content += `
