@@ -13,11 +13,18 @@
 
 ---
 
-<p>We track real entry-level tech jobs designed for candidates with 0–2 years of experience, including recent graduates, bootcamp students and early-career professionals.</p>
+<div>
+
+<p>
+We track real entry-level tech jobs designed for candidates with 0–2 years of experience, including recent graduates, bootcamp students and early-career professionals.
+</p>
+
 - ✅ **Require 0-2 years of experience**
 - 🇺🇸 **Based in the USA**
 - 🕒 **Updated every 24 hours**
 - 🔗 **Direct links to company career pages**
+
+</div>
 
 
 ---
@@ -38,7 +45,6 @@ color : white;
 	<b>Applying to entry level jobs ?</b>
 </p>
 
-<hr style="height:1px;border:none;background-color:#30363d;">
 
 <p>
 	<i>Make sure your resume passes the ATS filters</i>
@@ -46,11 +52,14 @@ color : white;
 
 <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
 	<img 
-	src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
-	alt="Resume Checker"
-	width="300"
-	/>
+  src="https://img.shields.io/badge/-Resume%20Checker-243c7c?style=for-the-badge" 
+  alt="Resume Checker"
+  width="300"
+/>
 </a>
+
+<hr style="height:1px;border:none;background-color:#30363d;">
+
 
 </div>
 </div>
@@ -3123,7 +3132,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 09:24 PM GMT+5:30**
+**Friday, February 27, 2026 at 11:09 AM EST**
 
 ---
 
