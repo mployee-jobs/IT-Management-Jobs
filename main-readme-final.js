@@ -255,7 +255,7 @@ color : white;
 
 
 <p>
-	<i>Make sure your resume passes the ATS filters</i>
+	<i>Before you apply, make sure your resume ATS score is more than 80%.</i>
 </p>
 
 <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
@@ -287,27 +287,21 @@ color : white;
   <tbody>
     <tr>
       <td valign="top" style="padding: 10px;">
-        <ul style="list-style: none; padding-left: 0; margin: 0;">
-          <li>🟢 Junior Software Engineer</li>
-          <li>🟢 Entry Level Frontend Developer</li>
-          <li>🟢 Backend Developer (Junior)</li>
-          <li>🟢 QA Engineer</li>
-        </ul>
+        🟢 Junior Software Engineer<br />
+        🟢 Entry Level Frontend Developer<br />
+        🟢 Backend Developer (Junior)<br />
+        🟢 QA Engineer
       </td>
       <td valign="top" style="padding: 10px;">
-        <ul style="list-style: none; padding-left: 0; margin: 0;">
-          <li>🟢 IT Support Specialist</li>
-          <li>🟢 Help Desk Technician</li>
-          <li>🟢 System Administrator (Entry Level)</li>
-          <li>🟢 Desktop Support</li>
-        </ul>
+        🟢 IT Support Specialist<br />
+        🟢 Help Desk Technician<br />
+        🟢 System Administrator (Entry Level)<br />
+        🟢 Desktop Support
       </td>
       <td valign="top" style="padding: 10px;">
-        <ul style="list-style: none; padding-left: 0; margin: 0;">
-          <li>🟢 Junior Cloud Engineer</li>
-          <li>🟢 DevOps Engineer (Entry Level)</li>
-          <li>🟢 AWS / Azure Associate Roles</li>
-        </ul>
+        🟢 Junior Cloud Engineer<br />
+        🟢 DevOps Engineer (Entry Level)<br />
+        🟢 AWS / Azure Associate Roles
       </td>
     </tr>
   </tbody>
@@ -460,11 +454,11 @@ graph LR
     C --> D[📝 Submit Application]
     D --> E[🎉 Get Hired!]
     
-    style A fill:#e1f5ff
-    style B fill:#fff3cd
-    style C fill:#d4edda
-    style D fill:#cfe2ff
-    style E fill:#f8d7da
+    style A fill:#e1f5ff,color:#000
+    style B fill:#fff3cd,color:#000
+    style C fill:#d4edda,color:#000
+    style D fill:#cfe2ff,color:#000
+    style E fill:#f8d7da,color:#000
 \`\`\`
 
 </div>
@@ -503,10 +497,10 @@ Found a broken link or want to add a job posting? Feel free to:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](${process.env.WEBSITE_URL || 'https://yourwebsite.com'})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/yourcompany)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourcompany)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mployee.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakjain27)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interview_prep_here)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@interview_prep_here/videos)
 
 ---
 
